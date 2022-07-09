@@ -178,7 +178,7 @@ scanButton.addEventListener("click", async () => {
     //log(`> Records: (${message.records.length})`);
 
       //ShowContent(serialNumber);
-      setContent(serialNumber);
+      ChromeSamples.setContent(serialNumber);
     });
   } catch (error) {
     log("Argh! " + error);
