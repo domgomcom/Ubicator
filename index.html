@@ -160,7 +160,8 @@ if (!("NDEFReader" in window))
 
   
     
-      <script>scanButton.addEventListener("click", async () => {
+<script>
+scanButton.addEventListener("click", async () => {
   log("Scan Activado...");
 
   try {
@@ -175,6 +176,8 @@ if (!("NDEFReader" in window))
     ndef.addEventListener("reading", ({ message, serialNumber }) => {
       log(`> Serial Number: ${serialNumber}`);
       log(`> Records: (${message.records.length})`);
+
+      ShowContent(serialNumber);
     });
   } catch (error) {
     log("Argh! " + error);
@@ -204,6 +207,12 @@ makeReadOnlyButton.addEventListener("click", async () => {
     log("Argh! " + error);
   }
 });
+
+
+function ShowContent(id){
+  log(id);
+
+}
 </script>
     
   
