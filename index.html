@@ -177,7 +177,8 @@ scanButton.addEventListener("click", async () => {
       log(`> Serial Number: ${serialNumber}`);
       log(`> Records: (${message.records.length})`);
 
-      ShowContent(serialNumber);
+      //ShowContent(serialNumber);
+      setContent(serialNumber);
     });
   } catch (error) {
     log("Argh! " + error);
