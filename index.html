@@ -28,7 +28,7 @@ limitations under the License.
 
     <title>Web NFC Sample</title>
     <script>
-
+let lastserialNumber="";
 
 var json_test=[
 	{
@@ -177,8 +177,11 @@ scanButton.addEventListener("click", async () => {
     //log(`> Serial Number: ${serialNumber}`);
     //log(`> Records: (${message.records.length})`);
 
+    if(serialNumber!=lastserialnumber){
       ShowContent(serialNumber);
+      lastserialnumber=serialNumber;
       //ChromeSamples.setContent(serialNumber);
+    }  
     });
   } catch (error) {
     log("Argh! " + error);
