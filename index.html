@@ -30,9 +30,12 @@ limitations under the License.
     
     <script>
 
-let text = db.split("\r\n");
-    alert(text[0]);
-
+let lines = db.split("\r\n");
+let columns=[];
+for(let iter=0; iter<lines.length;iter++){
+//    alert(text[0]);
+columns[iter].push(lines[iter]);
+}
 
 var json_test=[
 	{
@@ -92,7 +95,7 @@ var json_test=[
 
   <body>
     
-    <h1>Ubicator 1.0.8</h1>
+    <h1>Ubicator 1.0.9</h1>
     <p class="availability">
       Disponible solo para Chrome 89+
     </p>
