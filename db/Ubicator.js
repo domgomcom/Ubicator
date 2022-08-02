@@ -1,4 +1,4 @@
-BOX_ID	BOX_NAME	BOX_DAT1	BOX_DAT2	BOX_NUMITEMS	BOX_CLASS	BOX_DESC	BOX_COMM	\
+let db="BOX_ID	BOX_NAME	BOX_DAT1	BOX_DAT2	BOX_NUMITEMS	BOX_CLASS	BOX_DESC	BOX_COMM	\
 1								\
 2								\
 3						Bolsas para CDs Triple Q		\
@@ -1034,11 +1034,11 @@ BOX_ID	BOX_NAME	BOX_DAT1	BOX_DAT2	BOX_NUMITEMS	BOX_CLASS	BOX_DESC	BOX_COMM	\
 1033								\
 1034	E-058				Libros	Sin Clasificar		\
 1035	E-058				Revistas	Sin Clasificar		\
+1040	E-059				Revistas	Micromanías Segunda Época		\
 1036	E-058				Cómics	Colección Cómics V Centenario		\
 1037	E-058				Revistas	Colección ELEKTOR		\
 1038								\
 1039								\
-1040	E-059				Revistas	Micromanías Segunda Época		\
 1041	E-059					Documentación Hellín Ibercom / AICOX		\
 1042	E-059				Software	SQL Server 2000 Standard Edition		\
 1043	E-059					Paño de hule		\
@@ -1142,4 +1142,4 @@ BOX_ID	BOX_NAME	BOX_DAT1	BOX_DAT2	BOX_NUMITEMS	BOX_CLASS	BOX_DESC	BOX_COMM	\
 1141								\
 1142								\
 1143								\
-1144								\
+1144								";
