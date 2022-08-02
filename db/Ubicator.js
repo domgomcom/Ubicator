@@ -1,4 +1,4 @@
-let text ="BOX_ID	BOX_NAME	BOX_DAT1	BOX_DAT2	BOX_NUMITEMS	BOX_CLASS	BOX_DESC	BOX_COMM	\r\n\
+let db ="BOX_ID	BOX_NAME	BOX_DAT1	BOX_DAT2	BOX_NUMITEMS	BOX_CLASS	BOX_DESC	BOX_COMM	\r\n\
 1								\r\n\
 2								\r\n\
 3						Bolsas para CDs Triple Q		\r\n\
