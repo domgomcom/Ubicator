@@ -183,6 +183,16 @@ if (!("NDEFReader" in window))
 <script>
 
 
+
+function getItemsFromBoxID(boxID){
+let items=[];
+for(let iter=1;iter<table_items.length;iter++){
+  if(table_items[iter][0]==boxID)
+    items.push(table_items[iter][0]);
+  }
+  return items;
+}
+
 function getBOX_ID(tagID){
   let found=false;
   for(let iter=1;iter<lines_boxes.length;iter++){
@@ -213,9 +223,17 @@ scanButton.addEventListener("click", async () => {
     //log(`> Records: (${message.records.length})`);
     let boxID=getBOX_ID(serialNumber);
   
-  
-    ShowContent(boxID);
+    if(boxID==null)
+      ShowContent("No se encontró...");
       //ChromeSamples.setContent(serialNumber);
+    else{
+      let outputtext=boxId;
+      let results = getItemsFromBoxID(boxID);
+      for (let iter=0;iter<result.length;iter++)
+        outputtext = outputtext + result[iter];
+      ShowContent(outputtext);
+    }
+
     });
   } catch (error) {
     log("Argh! " + error);
