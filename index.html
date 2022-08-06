@@ -112,7 +112,7 @@ var json_test=[
 
   <body>
     
-    <h1>Ubicator 1.0.11</h1>
+    <h1>Ubicator 1.0.12</h1>
     <p class="availability">
       Disponible solo para Chrome 89+
     </p>
@@ -184,17 +184,16 @@ if (!("NDEFReader" in window))
 
 
 function getBOX_ID(tagID){
-  for(let iter=0;iter<lines_boxes.length;iter++){
-  if(lines_boxes[iter][1]==tagID)
-    return lines_boxes[0];
+  let found=false;
+  for(let iter=1;iter<lines_boxes.length;iter++){
+    //falta leer header
+  if(table_boxes[iter][1]==tagID){
+    found=true;
+    return table_boxes[iter][0];
   }
-  return null; 
-
-
-
-
-
-  
+  }
+  if(found==false)
+    return null;
 }
 
 scanButton.addEventListener("click", async () => {
