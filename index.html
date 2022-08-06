@@ -1,4 +1,3 @@
-
 <!doctype html>
 <!-- Ubicator -->
 
@@ -28,15 +27,32 @@ limitations under the License.
 
     <title>Web NFC Sample</title>
     
-    <script>
+<script>
+let lines_test = test.split("\r\n");
+let lines_boxes = boxes.split("\r\n");
+let lines_items = items.split("\r\n");
 
-let lines = db.split("\r\n");
-let columns=[];
+let table_test = new Array(lines_test.length);
+let table_boxes = new Array(lines_boxes.length);
+let table_items = new Array(lines_items.length);
+
+processDB(table_test, lines_test);
+processDB(table_boxes, lines_boxes);
+processDB(table_items, lines_items);
+
+function processDB(table, lines){
+let columns = lines[0].split("\t");
+for (let i = 0; i < table.length; i++) {
+  table[i] = new Array(columns.length);
+}
 for(let line=0; line<lines.length;line++){
-  for(let column=0; column<columns[column].length;column++){
-    columns[line].push(lines[column]);
+  columns = lines[line].split("\t");
+  for(let column=0; column<columns.length;column++){
+    table[line][column]=columns[column];
   }
 }
+}
+
 
 var json_test=[
 	{
@@ -96,7 +112,7 @@ var json_test=[
 
   <body>
     
-    <h1>Ubicator 1.0.10</h1>
+    <h1>Ubicator 1.0.11</h1>
     <p class="availability">
       Disponible solo para Chrome 89+
     </p>
@@ -165,6 +181,22 @@ if (!("NDEFReader" in window))
   
     
 <script>
+
+
+function getBOX_ID(tagID){
+  for(let iter=0;iter<lines_boxes.length;iter++){
+  if(lines_boxes[iter][1]==tagID)
+    return lines_boxes[0];
+  }
+  return null; 
+
+
+
+
+
+  
+}
+
 scanButton.addEventListener("click", async () => {
   log("Scan Activado...");
 
@@ -180,8 +212,10 @@ scanButton.addEventListener("click", async () => {
     ndef.addEventListener("reading", ({ message, serialNumber }) => {
     //log(`> Serial Number: ${serialNumber}`);
     //log(`> Records: (${message.records.length})`);
-
-      ShowContent(serialNumber);
+    let boxID=getBOX_ID(serialNumber);
+  
+  
+    ShowContent(boxID);
       //ChromeSamples.setContent(serialNumber);
     });
   } catch (error) {
