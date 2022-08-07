@@ -235,9 +235,10 @@ scanButton.addEventListener("click", async () => {
     //log(`> Records: (${message.records.length})`);
     let boxID=getBOX_ID(serialNumber);
   
-    if(boxID==null)
+    if(boxID==null){
       ShowContent("No se encontró...");
       //ChromeSamples.setContent(serialNumber);
+    }
     else{
       let outputtext=boxId;
       let results = getItemsFromBoxID(boxID);
