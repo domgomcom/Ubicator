@@ -12,13 +12,6 @@
     <title>Web NFC Ubicator</title>
     
 <script>
-let lines_test = test.split("\r\n");
-let lines_boxes = boxes.split("\r\n");
-let lines_items = items.split("\r\n");
-
-let table_test = new Array(lines_test.length);
-let table_boxes = new Array(lines_boxes.length);
-let table_items = new Array(lines_items.length);
 
 
 
@@ -29,15 +22,8 @@ let table_items = new Array(lines_items.length);
 
 
 
-      // Add a global error event listener early on in the page load, to help ensure that browsers
-      // which don't support specific functionality still end up displaying a meaningful message.
-      window.addEventListener('error', function(error) {
-        if (ChromeSamples && ChromeSamples.setStatus) {
-          console.error(error);
-          ChromeSamples.setStatus(error.message + ' (Your browser may not support this feature.)');
-          error.preventDefault();
-        }
-      });
+
+
 
 
 
@@ -333,13 +319,14 @@ function getItemsFromBoxID(boxID){
 let local_items=[];
 for(let iter=1;iter<table_items.length;iter++){
   if(table_items[iter][0]==boxID){
-    let info_array= new Array(6);
-    info_array[0]=table_items[iter][1];
-    info_array[1]=table_items[iter][2];
-    info_array[2]=table_items[iter][3];
-    info_array[3]=table_items[iter][4];
-    info_array[4]=table_items[iter][5];
-    info_array[5]=table_items[iter][6];  
+    let info_array= new Array(7);
+    info_array[0]=table_items[iter][0];
+    info_array[1]=table_items[iter][1];
+    info_array[2]=table_items[iter][2];
+    info_array[3]=table_items[iter][3];
+    info_array[4]=table_items[iter][4];
+    info_array[5]=table_items[iter][5];
+    info_array[6]=table_items[iter][6];  
     local_items.push(info_array);
   }
   }
@@ -359,7 +346,28 @@ function getBOX_ID(tagID){
     return null;
 }
 
+
+      // Add a global error event listener early on in the page load, to help ensure that browsers
+      // which don't support specific functionality still end up displaying a meaningful message.
+      window.addEventListener('error', function(error) {
+        if (ChromeSamples && ChromeSamples.setStatus) {
+          console.error(error);
+          ChromeSamples.setStatus(error.message + ' (Your browser may not support this feature.)');
+          error.preventDefault();
+        }
+      });
+
+
+let lines_test = test.split("\r\n");
+let lines_boxes = boxes.split("\r\n");
+let lines_items = items.split("\r\n");
+
+let table_test = new Array(lines_test.length);
+let table_boxes = new Array(lines_boxes.length);
+let table_items = new Array(lines_items.length);
+
 processDB(table_test, lines_test);
 processDB(table_boxes, lines_boxes);
 processDB(table_items, lines_items);
+
 </script>
