@@ -240,10 +240,18 @@ scanButton.addEventListener("click", async () => {
       //ChromeSamples.setContent(serialNumber);
     }
     else{
-      let outputtext=boxID;
+      let outputtext="<table>"; // + boxID;
       let results = getItemsFromBoxID(boxID);
-      for (let iter=0;iter<results.length;iter++)
-        outputtext = outputtext + results[iter];
+      for (let itertr=0;itertr<results.length;itertr++){
+        outputtext = outputtext + "<tr>";
+          for (let itertd=0;itertd<results.length;itertd++){
+            outputtext = outputtext + "<td>";
+            outputtext = outputtext + results[itertr][itertd];
+            outputtext = outputtext + "</td>";
+          }
+        outputtext = outputtext + "</tr>";
+      }
+      outputtext=outputtext + "</table>";
       ShowContent(outputtext);
     }
 
