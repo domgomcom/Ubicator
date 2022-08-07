@@ -185,12 +185,24 @@ if (!("NDEFReader" in window))
 
 
 function getItemsFromBoxID(boxID){
-let items=[];
+let local_items=[]; //new Array(5);
+
+
+//let table_test = new Array(lines_test.length);
+
+
 for(let iter=1;iter<table_items.length;iter++){
-  if(table_items[iter][0]==boxID)
-    items.push(table_items[iter][0]);
+  if(table_items[iter][0]==boxID){
+    let info_array= new Array(5);
+    info_array[0]=table_items[iter][1];
+    info_array[1]=table_items[iter][2];
+    info_array[2]=table_items[iter][3];
+    info_array[3]=table_items[iter][4];
+    info_array[4]=table_items[iter][5];
+    local_items.push(info_array);
   }
-  return items;
+  }
+  return local_items;
 }
 
 function getBOX_ID(tagID){
