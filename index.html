@@ -45,7 +45,7 @@ width: 15%;
 
   <body>
     
-    <h1>Ubicator 1.0.20</h1>
+    <h1>Ubicator 1.0.21</h1>
     <p class="availability">
       Disponible solo para Chrome 89+
     </p>
@@ -273,7 +273,7 @@ for(let line=0; line<lines.length;line++){
 
 function getItemsFromSearch(subtext){ 
 let local_items=[];
-for(let itertr=1;itertr<table_items.length;itertr++){
+for(let itertr=1;itertr<table_items.length-10;itertr++){
   for(let itertd=1;itertd<table_items[0].length;itertd++){
   if(Subtext(subtext, itertr, itertd)){
     let info_array= new Array(7);
@@ -296,9 +296,11 @@ let found=false;
 //for(let itertr=0;itertr<table_items.length;itertr++){
 //  for(let itertd=0;itertd<table_items[0].length;itertd++){
 
-  let info_upper=table_items[itertr][itertd].to
+  console.log(itertr);
+  let info_upper=table_items[itertr][itertd].toUpperCase();
+  let subtext_upper=subtext.toUpperCase();
 
-    if(table_items[itertr][itertd].search(subtext)!=-1){
+    if(info_upper.search(subtext_upper)!=-1){
     found=true;
 
     }
