@@ -281,13 +281,10 @@ makeReadOnlyButton.addEventListener("click", async () => {
 
 
 function ShowContent(id){
-  /*
   document.getElementById("content").innerHTML=id;
-  */
 }
 
 function processDB(table, lines){
-  /*
   let columns = lines[0].split("\t");
   for (let i = 0; i < table.length; i++) {
   table[i] = new Array(columns.length);
@@ -298,11 +295,9 @@ for(let line=0; line<lines.length;line++){
     table[line][column]=columns[column];
     }
   }
-  */
 }
 
-function getItemsFromSearch(subtext){
-/*  
+function getItemsFromSearch(subtext){ 
 let local_items=[];
 for(let itertr=1;itertr<table_items.length;itertr++){
   for(let itertd=1;itertd<table_items.length[0];itertd++){
@@ -319,11 +314,9 @@ for(let itertr=1;itertr<table_items.length;itertr++){
   }
 }
   return local_items;
-*/
 }
 
 function Subtext(subtext, itertr, itertd){
-  /*
 let found=false;
 //for(let itertr=0;itertr<table_items.length;itertr++){
 //  for(let itertd=0;itertd<table_items[0].length;itertd++){
@@ -334,11 +327,10 @@ let found=false;
   //  }
 //} 
 return found;
-*/  
 }
 
 function getItemsFromBoxID(boxID){
-/*let local_items=[];
+let local_items=[];
 for(let iter=1;iter<table_items.length;iter++){
   if(table_items[iter][0]==boxID){
     let info_array= new Array(6);
@@ -352,11 +344,9 @@ for(let iter=1;iter<table_items.length;iter++){
   }
   }
   return local_items;
-  */
 }
 
 function getBOX_ID(tagID){
-  /*
   let found=false;
   for(let iter=1;iter<lines_boxes.length;iter++){
     //falta leer header
@@ -367,11 +357,9 @@ function getBOX_ID(tagID){
   }
   if(found==false)
     return null;
-*/
 }
 
 processDB(table_test, lines_test);
 processDB(table_boxes, lines_boxes);
 processDB(table_items, lines_items);
-
 </script>
