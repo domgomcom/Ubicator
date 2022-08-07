@@ -1,21 +1,5 @@
 <!doctype html>
 <!-- Ubicator -->
-
-<!--
-Copyright 2022 Google Inc. All Rights Reserved.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-  http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
--->
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -25,7 +9,7 @@ limitations under the License.
 
     <script src="db/Ubicator.js"></script>
 
-    <title>Web NFC Sample</title>
+    <title>Web NFC Ubicator</title>
     
 <script>
 let lines_test = test.split("\r\n");
@@ -36,54 +20,12 @@ let table_test = new Array(lines_test.length);
 let table_boxes = new Array(lines_boxes.length);
 let table_items = new Array(lines_items.length);
 
-processDB(table_test, lines_test);
-processDB(table_boxes, lines_boxes);
-processDB(table_items, lines_items);
-
-function processDB(table, lines){
-let columns = lines[0].split("\t");
-for (let i = 0; i < table.length; i++) {
-  table[i] = new Array(columns.length);
-}
-for(let line=0; line<lines.length;line++){
-  columns = lines[line].split("\t");
-  for(let column=0; column<columns.length;column++){
-    table[line][column]=columns[column];
-  }
-}
-}
 
 
-var json_test=[
-	{
-		color: "red",
-		value: "#f00"
-	},
-	{
-		color: "green",
-		value: "#0f0"
-	},
-	{
-		color: "blue",
-		value: "#00f"
-	},
-	{
-		color: "cyan",
-		value: "#0ff"
-	},
-	{
-		color: "magenta",
-		value: "#f0f"
-	},
-	{
-		color: "yellow",
-		value: "#ff0"
-	},
-	{
-		color: "black",
-		value: "#000"
-	}
-];
+
+
+
+
 
 
 
@@ -132,7 +74,7 @@ width: 15%;
 
   <body>
     
-    <h1>Ubicator 1.0.14</h1>
+    <h1>Ubicator 1.0.18</h1>
     <p class="availability">
       Disponible solo para Chrome 89+
     </p>
@@ -203,42 +145,6 @@ if (!("NDEFReader" in window))
 <script>
 
 
-
-function getItemsFromBoxID(boxID){
-let local_items=[]; //new Array(5);
-
-
-//let table_test = new Array(lines_test.length);
-
-
-for(let iter=1;iter<table_items.length;iter++){
-  if(table_items[iter][0]==boxID){
-    let info_array= new Array(6);
-    info_array[0]=table_items[iter][1];
-    info_array[1]=table_items[iter][2];
-    info_array[2]=table_items[iter][3];
-    info_array[3]=table_items[iter][4];
-    info_array[4]=table_items[iter][5];
-    info_array[5]=table_items[iter][6];  
-    local_items.push(info_array);
-  }
-  }
-  return local_items;
-}
-
-function getBOX_ID(tagID){
-  let found=false;
-  for(let iter=1;iter<lines_boxes.length;iter++){
-    //falta leer header
-  if(table_boxes[iter][1]==tagID){
-    found=true;
-    return table_boxes[iter][0];
-  }
-  }
-  if(found==false)
-    return null;
-}
-
 scanButton.addEventListener("click", async () => {
   log("Scan Activado...");
 
@@ -307,11 +213,7 @@ makeReadOnlyButton.addEventListener("click", async () => {
 });
 
 
-function ShowContent(id){
-  //log(id);
-  document.getElementById("content").innerHTML=id;
 
-}
 </script>
     
   
@@ -319,8 +221,6 @@ function ShowContent(id){
   
   </body>
 </html>
-
-
 
 
 
@@ -375,4 +275,103 @@ function ShowContent(id){
           log("Argh! " + error);
         }
       });    
-    </script>
+
+
+
+
+
+function ShowContent(id){
+  /*
+  document.getElementById("content").innerHTML=id;
+  */
+}
+
+function processDB(table, lines){
+  /*
+  let columns = lines[0].split("\t");
+  for (let i = 0; i < table.length; i++) {
+  table[i] = new Array(columns.length);
+  }
+for(let line=0; line<lines.length;line++){
+  columns = lines[line].split("\t");
+  for(let column=0; column<columns.length;column++){
+    table[line][column]=columns[column];
+    }
+  }
+  */
+}
+
+function getItemsFromSearch(subtext){
+/*  
+let local_items=[];
+for(let itertr=1;itertr<table_items.length;itertr++){
+  for(let itertd=1;itertd<table_items.length[0];itertd++){
+  if(Subtext(subtext, itertr, itertd)){
+    let info_array= new Array(6);
+    info_array[0]=table_items[iter][1];
+    info_array[1]=table_items[iter][2];
+    info_array[2]=table_items[iter][3];
+    info_array[3]=table_items[iter][4];
+    info_array[4]=table_items[iter][5];
+    info_array[5]=table_items[iter][6];  
+    local_items.push(info_array);
+    }
+  }
+}
+  return local_items;
+*/
+}
+
+function Subtext(subtext, itertr, itertd){
+  /*
+let found=false;
+//for(let itertr=0;itertr<table_items.length;itertr++){
+//  for(let itertd=0;itertd<table_items[0].length;itertd++){
+    if(table_items[itertr][itertd].search(subtext)!=-1){
+    found=true;
+
+    }
+  //  }
+//} 
+return found;
+*/  
+}
+
+function getItemsFromBoxID(boxID){
+/*let local_items=[];
+for(let iter=1;iter<table_items.length;iter++){
+  if(table_items[iter][0]==boxID){
+    let info_array= new Array(6);
+    info_array[0]=table_items[iter][1];
+    info_array[1]=table_items[iter][2];
+    info_array[2]=table_items[iter][3];
+    info_array[3]=table_items[iter][4];
+    info_array[4]=table_items[iter][5];
+    info_array[5]=table_items[iter][6];  
+    local_items.push(info_array);
+  }
+  }
+  return local_items;
+  */
+}
+
+function getBOX_ID(tagID){
+  /*
+  let found=false;
+  for(let iter=1;iter<lines_boxes.length;iter++){
+    //falta leer header
+  if(table_boxes[iter][1]==tagID){
+    found=true;
+    return table_boxes[iter][0];
+  }
+  }
+  if(found==false)
+    return null;
+*/
+}
+
+processDB(table_test, lines_test);
+processDB(table_boxes, lines_boxes);
+processDB(table_items, lines_items);
+
+</script>
