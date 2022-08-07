@@ -141,7 +141,7 @@ scanButton.addEventListener("click", async () => {
       let outputtext="<table>"; // + boxID;
 
       //let results = getItemsFromBoxID(boxID);
-      let results = getItemsFromSearch("verde");
+      let results = getItemsFromSearch("color");
       
       for (let itertr=0;itertr<results.length;itertr++){
         outputtext = outputtext + "<tr>";
@@ -274,16 +274,16 @@ for(let line=0; line<lines.length;line++){
 function getItemsFromSearch(subtext){ 
 let local_items=[];
 for(let itertr=1;itertr<table_items.length;itertr++){
-  for(let itertd=1;itertd<table_items.length[0];itertd++){
+  for(let itertd=1;itertd<table_items[0].length;itertd++){
   if(Subtext(subtext, itertr, itertd)){
     let info_array= new Array(7);
-    info_array[0]=table_items[iter][0];
-    info_array[1]=table_items[iter][1];
-    info_array[2]=table_items[iter][2];
-    info_array[3]=table_items[iter][3];
-    info_array[4]=table_items[iter][4];
-    info_array[5]=table_items[iter][5];  
-    info_array[6]=table_items[iter][6];  
+    info_array[0]=table_items[itertr][0];
+    info_array[1]=table_items[itertr][1];
+    info_array[2]=table_items[itertr][2];
+    info_array[3]=table_items[itertr][3];
+    info_array[4]=table_items[itertr][4];
+    info_array[5]=table_items[itertr][5];  
+    info_array[6]=table_items[itertr][6];  
     local_items.push(info_array);
     }
   }
