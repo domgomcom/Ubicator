@@ -242,8 +242,8 @@ scanButton.addEventListener("click", async () => {
     else{
       let outputtext=boxID;
       let results = getItemsFromBoxID(boxID);
-      for (let iter=0;iter<result.length;iter++)
-        outputtext = outputtext + result[iter];
+      for (let iter=0;iter<results.length;iter++)
+        outputtext = outputtext + results[iter];
       ShowContent(outputtext);
     }
 
