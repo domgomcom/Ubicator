@@ -193,12 +193,13 @@ let local_items=[]; //new Array(5);
 
 for(let iter=1;iter<table_items.length;iter++){
   if(table_items[iter][0]==boxID){
-    let info_array= new Array(5);
+    let info_array= new Array(6);
     info_array[0]=table_items[iter][1];
     info_array[1]=table_items[iter][2];
     info_array[2]=table_items[iter][3];
     info_array[3]=table_items[iter][4];
     info_array[4]=table_items[iter][5];
+    info_array[5]=table_items[iter][6];  
     local_items.push(info_array);
   }
   }
