@@ -257,18 +257,18 @@ function CreateTable(results){
   let outputtext="<table>"; // + boxID;
 
 for (let itertr=0;itertr<results.length;itertr++){
-  outputtext = outputtext + "<tr>";
+  outputtext =+ "<tr>";
     for (let itertd=0;itertd<results[0].length;itertd++){
-      outputtext = outputtext + "<td>";
+      outputtext =+ "<td>";
 if(itertd==0)
-  outputtext = outputtext + "<img src='img/C001/1.jpg' width=15%>";
+  outputtext =+ "<img src='img/C001/1.jpg' width=15%>";
 
-      outputtext = outputtext + results[itertr][itertd];
-      outputtext = outputtext + "</td>";
+      outputtext =+ results[itertr][itertd];
+      outputtext =+ "</td>";
     }
-  outputtext = outputtext + "</tr>";
+  outputtext =+ "</tr>";
 }
-outputtext=outputtext + "</table>";
+outputtext =+ "</table>";
 return outputtext;
 }
 
