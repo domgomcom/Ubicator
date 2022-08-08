@@ -45,7 +45,7 @@ width: 15%;
 
   <body>
     
-    <h1>Ubicator 1.0.21</h1>
+    <h1>Ubicator 1.0.22</h1>
     <p class="availability">
       Disponible solo para Chrome 89+
     </p>
@@ -148,22 +148,11 @@ scanButton.addEventListener("click", async () => {
       //ChromeSamples.setContent(serialNumber);
     }
     else{
-      let outputtext="<table>"; // + boxID;
 
-      //let results = getItemsFromBoxID(boxID);
-      let results = getItemsFromSearch("color");
-      
-      for (let itertr=0;itertr<results.length;itertr++){
-        outputtext = outputtext + "<tr>";
-          for (let itertd=0;itertd<results[0].length;itertd++){
-            outputtext = outputtext + "<td>";
-            outputtext = outputtext + results[itertr][itertd];
-            outputtext = outputtext + "</td>";
-          }
-        outputtext = outputtext + "</tr>";
-      }
-      outputtext=outputtext + "</table>";
-      ShowContent(outputtext);
+let results = getItemsFromBoxID(boxID);
+//let results = getItemsFromSearch("color");
+
+      ShowContent(CreateTable(results));
     }
 
     });
@@ -261,8 +250,21 @@ makeReadOnlyButton.addEventListener("click", async () => {
       });    
 
 
+function CreateTable(results){
+  let outputtext="<table>"; // + boxID;
 
-
+for (let itertr=0;itertr<results.length;itertr++){
+  outputtext = outputtext + "<tr>";
+    for (let itertd=0;itertd<results[0].length;itertd++){
+      outputtext = outputtext + "<td>";
+      outputtext = outputtext + results[itertr][itertd];
+      outputtext = outputtext + "</td>";
+    }
+  outputtext = outputtext + "</tr>";
+}
+outputtext=outputtext + "</table>";
+return outputtext;
+}
 
 function ShowContent(id){
   document.getElementById("content").innerHTML=id;
@@ -270,7 +272,7 @@ function ShowContent(id){
 
 function processDB(table, lines){
   let columns = lines[0].split("\t");
-  for (let i = 0; i < table.length; i++) {
+  for (let i = 0; i < table.length; i++){
   table[i] = new Array(columns.length);
   }
 for(let line=0; line<lines.length;line++){
@@ -353,7 +355,7 @@ function getBOX_ID(tagID){
     return null;
 }
 
-/*
+
       // Add a global error event listener early on in the page load, to help ensure that browsers
       // which don't support specific functionality still end up displaying a meaningful message.
       window.addEventListener('error', function(error) {
@@ -363,17 +365,16 @@ function getBOX_ID(tagID){
           error.preventDefault();
         }
       });
-*/
 
-let lines_test = test.split("\r\n");
+//let lines_test = test.split("\r\n");
 let lines_boxes = boxes.split("\r\n");
 let lines_items = items.split("\r\n");
 
-let table_test = new Array(lines_test.length);
+//let table_test = new Array(lines_test.length);
 let table_boxes = new Array(lines_boxes.length);
 let table_items = new Array(lines_items.length);
 
-processDB(table_test, lines_test);
+//processDB(table_test, lines_test);
 processDB(table_boxes, lines_boxes);
 processDB(table_items, lines_items);
 
