@@ -52,8 +52,12 @@ width: 15%;
 
 
 <button id="scanButton">Scan</button>
-<button id="writeButton">Write</button>
-<button id="makeReadOnlyButton">Make Read-Only</button>
+<input id="searchInput" type="text"></input>
+<button id="searchButton">Search</button>
+
+<button id="writeButton" style="display: none;">Write</button>
+<button id="makeReadOnlyButton" style="display: none;">Make Read-Only</button>
+
 
 <script>
   var ChromeSamples = {
@@ -109,12 +113,18 @@ log = ChromeSamples.log;
 if (!("NDEFReader" in window))
   ChromeSamples.setStatus("Web NFC is not available. Use Chrome on Android.");
 </script>
-
-
   
     
 <script>
+searchButton.addEventListener("click", async () => {
+  log("User clicked search button");
 
+  try {
+    log("> Búsqueda realizada.");
+  } catch (error) {
+    log("Argh! " + error);
+  }
+});
 
 scanButton.addEventListener("click", async () => {
   log("Scan Activado...");
@@ -134,7 +144,7 @@ scanButton.addEventListener("click", async () => {
     let boxID=getBOX_ID(serialNumber);
   
     if(boxID==null){
-      ShowContent("No se encontró...");
+      ShowContent("No se encontró información...");
       //ChromeSamples.setContent(serialNumber);
     }
     else{
@@ -273,7 +283,7 @@ for(let line=0; line<lines.length;line++){
 
 function getItemsFromSearch(subtext){ 
 let local_items=[];
-for(let itertr=1;itertr<table_items.length-1;itertr++){
+for(let itertr=1;itertr<table_items.length;itertr++){
   for(let itertd=1;itertd<table_items[0].length;itertd++){
   if(Subtext(subtext, itertr, itertd)){
     let info_array= new Array(7);
@@ -297,12 +307,15 @@ let found=false;
 //  for(let itertd=0;itertd<table_items[0].length;itertd++){
 
   console.log(itertr);
-  let info_upper=table_items[itertr][itertd].toUpperCase();
-  let subtext_upper=subtext.toUpperCase();
 
+  if(itertr==table_items.length-1)
+    console.log("ultimo");
+  if(table_items[itertr][itertd]!=undefined){
+    let info_upper=table_items[itertr][itertd].toUpperCase();
+    let subtext_upper=subtext.toUpperCase();
     if(info_upper.search(subtext_upper)!=-1){
-    found=true;
-
+      found=true;
+      }
     }
   //  }
 //} 
