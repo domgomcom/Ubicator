@@ -45,7 +45,7 @@ width: 15%;
 
   <body>
     
-    <h1>Ubicator 1.0.25</h1>
+    <h1>Ubicator 1.0.26</h1>
     <p class="availability">
       Disponible solo para Chrome 89+
     </p>
@@ -121,7 +121,7 @@ searchButton.addEventListener("click", async () => {
 
   try {
       //let results = getItemsFromBoxID(boxID);
-      let value=document.getElementById().value;
+      let value=document.getElementById("searchInput").value;
       let results = getItemsFromSearch(value);
       ShowContent(CreateTable(results));
 
