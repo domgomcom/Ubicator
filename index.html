@@ -45,7 +45,7 @@ width: 15%;
 
   <body>
     
-    <h1>Ubicator 1.0.26</h1>
+    <h1>Ubicator 1.0.27</h1>
     <p class="availability">
       Disponible solo para Chrome 89+
     </p>
@@ -260,6 +260,9 @@ for (let itertr=0;itertr<results.length;itertr++){
   outputtext = outputtext + "<tr>";
     for (let itertd=0;itertd<results[0].length;itertd++){
       outputtext = outputtext + "<td>";
+if(itertd==0)
+  outputtext = outputtext + "<img src='img/C001/1.jpg'>";
+
       outputtext = outputtext + results[itertr][itertd];
       outputtext = outputtext + "</td>";
     }
