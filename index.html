@@ -120,6 +120,10 @@ searchButton.addEventListener("click", async () => {
   log("User clicked search button");
 
   try {
+      //let results = getItemsFromBoxID(boxID);
+      let results = getItemsFromSearch("verde");
+      ShowContent(CreateTable(results));
+
     log("> Búsqueda realizada.");
   } catch (error) {
     log("Argh! " + error);
@@ -148,11 +152,9 @@ scanButton.addEventListener("click", async () => {
       //ChromeSamples.setContent(serialNumber);
     }
     else{
-
-let results = getItemsFromBoxID(boxID);
-//let results = getItemsFromSearch("color");
-
-      ShowContent(CreateTable(results));
+    let results = getItemsFromBoxID(boxID);
+    //let results = getItemsFromSearch("color");
+    ShowContent(CreateTable(results));
     }
 
     });
