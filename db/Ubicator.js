@@ -374,8 +374,8 @@ E-078							\r\n\
 							\r\n\
 E-081							\r\n\
 E-082							\r\n\
-							\r\n\
-							\r\n\
+T001	53:f7:41:f2:10:00:01				Herramientas		\r\n\
+T002	53:e5:c2:f2:10:00:01				Herramientas		\r\n\
 							\r\n\
 							\r\n\
 							\r\n\
@@ -421,6 +421,85 @@ NS			1		Soporte Lámpara de Seguridad Laboratorio Fotográfico		\r\n\
 NS			1		Set de Retoque Positivos Paterson		\r\n\
 NS			1		SIVOPAR, Máscaras Ajuste 35 mm. ampliadora DURST		\r\n\
 NS			2		Soporte Luces de Reproducción en Ampliadora		\r\n\
+T001	1		1		Fuente Alimentación Estabilizada MANSON EP-613		\r\n\
+T001	2		1		Pistola de Calor		\r\n\
+T001	3		1		Calibrador Pie de Rey		\r\n\
+T001	4		1		Tijeras Electricista		\r\n\
+T001	5		1		Pelacables		\r\n\
+T001	6		1		Alicates Punta Fina		\r\n\
+T001	7		1		Soldador		\r\n\
+T001	8		1		Llave inglesa mediana		\r\n\
+T001	9		1		Cutter		\r\n\
+T001	10		1		Brocha		\r\n\
+T001	11		1		Metro Bauhaus		\r\n\
+T001	12		1		Soldador		\r\n\
+T001	13		1		Cincel Grande		\r\n\
+T001	14		1		Cortatubos		\r\n\
+T001	15		1		Brocha		\r\n\
+T001	16		1		Broca de Pared gigante		\r\n\
+T001	17		1		Pistola de Silicona		\r\n\
+T001	18		1		Flexómetro		\r\n\
+T001	19		2		Lima Cola de Ratón		\r\n\
+T001	20		1		Tampón Fechador		\r\n\
+T001	21		1		Lupa con banco de trabajo		\r\n\
+T001	22		1		Dremel		\r\n\
+T001	23		1		Alicates Corte Rojos		\r\n\
+T001	24		1		Palustrina		\r\n\
+T001	25		1		Desoldador		\r\n\
+T001	26		1		Tampón copyright Domingo Gómez		\r\n\
+T001	27		1		Triple enchufe ladrón		\r\n\
+T001	28		1		Mini Lámpara Led Flexible		\r\n\
+T001	29		1		Dremel Accesorios		\r\n\
+T001	30		1		Pinzas sujeción		\r\n\
+T001	31		1		Flexómetro		\r\n\
+T001	32		1		Nivel		\r\n\
+T001	33		1		Juego de minibrocas CNC		\r\n\
+T001	34		1		Crimpadora RJ-45		\r\n\
+T001	35		1		Juego de limas de uñas		\r\n\
+T001	36		1		Microscopio Electrónico		\r\n\
+T001	37		1		Termómetro de Varilla Horno		\r\n\
+T001	38		1		Adaptador Enchfe Americano a Europeo		\r\n\
+T001	39		1		Termómetro Horno		\r\n\
+T001	40		1		Nivel		\r\n\
+T001	41		1		Alicantes Punta Fina Negros		\r\n\
+T001	42		1		Alicates Corte Azules		\r\n\
+T001	43		1		Juego Destornilladores de Precisión		\r\n\
+T001	44		1		Juego Llaves de Tubo		\r\n\
+T001	45		1		Bits CNC puntas de fresado		\r\n\
+T001	46		1		Lima Cola de Ratón		\r\n\
+T001	47		1		Tijeras Azules Papel		\r\n\
+T001	48		1		Juego Brocas Hierro		\r\n\
+T001	49		1		Soldador Azul		\r\n\
+T001	50		1		Soldador Blanco/Negro		\r\n\
+T001	51		1		Lima Cola de Ratón		\r\n\
+T001	52		1		Lima Plana Rectangular		\r\n\
+T001	53		1		Cepillo Plástico Limpia Uñas		\r\n\
+T001	54		1		Sujetador cables para soldar		\r\n\
+T001	55		1		Grapadora		\r\n\
+T001	56		1		Perforadora Papel un agujero		\r\n\
+T001	57		1		Cuchillo		\r\n\
+T001	58		1		Adaptador USB-SATA		\r\n\
+T002	1		1		Cargador Pilas NiCad AAA y AA		\r\n\
+T002	2		1		Cargador Pilas LIPO		\r\n\
+T002	3		1		Kit de herramientas desmontaje móviles		\r\n\
+T002	4		1		Adaptador SATA a USB, 3.5 y 2.5		\r\n\
+T002	5		1		Polímetro		\r\n\
+T002	6		1		Soldador Verde-Amarillo		\r\n\
+T002	7		1		Cepillo dental		\r\n\
+T002	8		1		Surtido de Agujas de Coser		\r\n\
+T002	9		1		Brocha Ancha Pintura		\r\n\
+T002	10		1		Brocha Normal		\r\n\
+T002	11		1		Soporte Soldador		\r\n\
+T002	12		1		Alicate de Corte Verde		\r\n\
+T002	13		1		Carraca de Tubo		\r\n\
+T002	14		1		Punto de luz LED Linterna		\r\n\
+T002	15		1		Guantes de Trabajo		\r\n\
+T002	16		1		Fuente de Alimentación Regulable Miniatura		\r\n\
+T002	17		1		Soporte Octopus con Pinzas		\r\n\
+T002	18		1		Hoja de Segueta		\r\n\
+T002	19		1		Gafas Relojero		\r\n\
+T002	20		1		Juego Completo de llaves Allen		\r\n\
+T002	21		1		Juego de llaves de tubo		\r\n\
 C001		Video	1	BETACAM	Un Domingo Cualquiera	Así se hizo	\r\n\
 C001		Video	1	BETACAM	Quill	Trailer	\r\n\
 C001		Video	1	BETACAM	Manuelita	Trailer	\r\n\
