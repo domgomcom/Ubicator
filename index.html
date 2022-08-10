@@ -18,6 +18,10 @@
 
 
 <style>
+body{
+background-color: teal;
+}
+
 table{
   color: black;
   background-color: teal;
@@ -30,7 +34,6 @@ table tr:nth-of-type(even){
 table tr:nth-of-type(odd){
    background: lightgray;
  }
-
 
 td{
 width: 15%;
@@ -45,7 +48,7 @@ width: 15%;
 
   <body>
     
-    <h1>Ubicator 1.0.33</h1>
+    <h1>Ubicator 1.0.34</h1>
     <p class="availability">
       Disponible solo para Chrome 89+
     </p>
@@ -261,7 +264,7 @@ for (let itertr=0;itertr<results.length;itertr++){
     for (let itertd=0;itertd<results[0].length;itertd++){
     
     if(itertd==0){
-      outputtext += "<td><img src='img/"+results[itertr][itertd]+"/"+results[itertr][itertd+1]+".jpg' width=25%></td>";
+      outputtext += "<td><img src='img/"+results[itertr][itertd]+"/"+results[itertr][itertd+1]+".jpg' width='50%'></td>";
     }
       outputtext += "<td>";
       outputtext += results[itertr][itertd];
