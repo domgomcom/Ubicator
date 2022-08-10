@@ -45,7 +45,7 @@ width: 15%;
 
   <body>
     
-    <h1>Ubicator 1.0.32</h1>
+    <h1>Ubicator 1.0.33</h1>
     <p class="availability">
       Disponible solo para Chrome 89+
     </p>
@@ -259,9 +259,11 @@ function CreateTable(results){
 for (let itertr=0;itertr<results.length;itertr++){
   outputtext += "<tr>";
     for (let itertd=0;itertd<results[0].length;itertd++){
+    
+    if(itertd==0){
+      outputtext += "<td><img src='img/"+results[itertr][itertd]+"/"+results[itertr][itertd+1]+".jpg' width=25%></td>";
+    }
       outputtext += "<td>";
-if(itertd==0)
-  outputtext += "<td><img src='img/"+results[itertr][itertd]+"/"+results[itertr][itertd+1]+".jpg' width=25%></td>";
       outputtext += results[itertr][itertd];
       outputtext += "</td>";
     }
