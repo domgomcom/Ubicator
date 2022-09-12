@@ -854,7 +854,7 @@ C024			6		Tubo Aspiración Centralizada		\r\n\
 C025					Accesorios Ampliadora: Portanegativos, lente concentradora, fijaciones base, tornillos		\r\n\
 							\r\n\
 C026					ACHIPRO-C026.XLS		\r\n\
-C027					Atacador Rápido Placa Circuito Impreso (Ácido Clorhídrico)		\r\n\
+C027					Atacador Rápido Placa Circuito Impreso (ácido Clorhídrico)		\r\n\
 					Barniz Tinte para Madera Tintanlux		\r\n\
 					Masilla Dupliplast		\r\n\
 					Aparejo Sistema Bicapa Glasurit (guitarra baja)		\r\n\
@@ -1011,7 +1011,7 @@ C084					Agepon (humectante) AGFA		\r\n\
 C084					FYVAL (fijador ácido rápido) Valca		\r\n\
 C084					HC110 Concentrado Kodak		\r\n\
 C084					Centrabrom Tetenal Work Solution 1:5		\r\n\
-C084					Ácido Aminoacético Puro (en polvo)		\r\n\
+C084					ácido Aminoacético Puro (en polvo)		\r\n\
 C084					Valca Universal Revelador Concentrado		\r\n\
 C084					130 Developer (especial para Ilford Gallerie)		\r\n\
 C084					Metol Puro (en polvo)		\r\n\
@@ -1564,63 +1564,39 @@ E-082					Herramientas		\r\n\
 M001	1		4		Alambre plastificado		\r\n\
 M001	2		1		Etiquetas de Impresora Adhesivas		\r\n\
 M001	3		1		Barras de pegamento térmico para fundir		\r\n\
+M001	4		1		Surtido de cables flexibles cubierta goma		\r\n\
+M001	5		2		Cinta de Carrocero o Pintor		\r\n\
+M001	6		3		Cinta Adhesiva Transparente de Embalar		\r\n\
+M001	7		1		Cinta Adhesiva Doble Cara		\r\n\
+M001	8		2		Cinta Adhesiva Marrón de Embalar		\r\n\
+M001	9		1		Cinta Adhesiva Americana		\r\n\
+M001	10		1		Alambre de Acero Trenzado Fino		\r\n\
+M001	11		1		Termorretráctil grande		\r\n\
+M001	12		1		Fieltro Protección Patas Sillas y Mesas		\r\n\
+M001	13		1		Bote Inyector Silicona		\r\n\
+M001	14		2		Cable Unifilar Wrapping		\r\n\
+M001	15		1		Sujetacables Velcro		\r\n\
+M001	16		1		Cinta Velcro		\r\n\
+M001	17		3		Estaño Soldar		\r\n\
+M001	18		1		Termoretráctiles Colores		\r\n\
+M001	19		1		Bridas Negras Pequeñas		\r\n\
+M001	20		1		Teflón para juntas		\r\n\
+M001	21		1		Esponja Limpieza Soldador		\r\n\
+M001	22		1		Silicona con Pistola Aplicadora		\r\n\
+M001	23		1		Correa de Goma G2		\r\n\
+M001	24		1		Cinta Adhesiva de Cobre		\r\n\
+M001	25		1		Cinta Velcro Negro para Cableado		\r\n\
+M001	26		1		Tubo Aguaplast		\r\n\
+M001	27		1		3en1 Tres en Uno Lubricante Multiuso		\r\n\
+M001	28		1		Adhesivo CEYS Fibra de Vídrio		\r\n\
+M001	29		1		Loctite Super Glue 3 Adhesivo		\r\n\
+M001	30		1		Pegamento Cola de Contacto Supergen		\r\n\
+M001	31		1		Masilla para Azulejos Bruguer		\r\n\
+M001	32		1		Cable Unifilar Rígido		\r\n\
+M001	33		1		Cable flexible audio 2+gnd		\r\n\
+M001	34		1				\r\n\
+M001	35		1				\r\n\
+M001	36		1				\r\n\
 							\r\n\
 							\r\n\
-							\r\n\
-							\r\n\
-							\r\n\
-							\r\n\
-							\r\n\
-							\r\n\
-							\r\n";                            
-
-let test="A1	B1	C1	D1	E1	F1	G1	H1	\r\n\
-A2	B2	C2	D2	E2	F2	G2	H2	\r\n\
-A3	B3	C3	D3	E3	F3	G3	H3	\r\n\
-A4	B4	C4	D4	E4	F4	G4	H4	\r\n\
-A5	B5	C5	D5	E5	F5	G5	H5	\r\n\
-A6	B6	C6	D6	E6	F6	G6	H6	\r\n\
-A7	B7	C7	D7	E7	F7	G7	H7	\r\n\
-A8	B8	C8	D8	E8	F8	G8	H8	\r\n\
-A9	B9	C9	D9	E9	F9	G9	H9	\r\n\
-A10	B10	C10	D10	E10	F10	G10	H10	\r\n\
-A11	B11	C11	D11	E11	F11	G11	H11	\r\n\
-A12	B12	C12	D12	E12	F12	G12	H12	\r\n\
-A13	B13	C13	D13	E13	F13	G13	H13	\r\n\
-A14	B14	C14	D14	E14	F14	G14	H14	\r\n\
-A15	B15	C15	D15	E15	F15	G15	H15	\r\n\
-A16	B16	C16	D16	E16	F16	G16	H16	\r\n\
-A17	B17	C17	D17	E17	F17	G17	H17	\r\n\
-A18	B18	C18	D18	E18	F18	G18	H18	\r\n\
-A19	B19	C19	D19	E19	F19	G19	H19	\r\n\
-A20	B20	C20	D20	E20	F20	G20	H20	\r\n\
-A21	B21	C21	D21	E21	F21	G21	H21	\r\n\
-A22	B22	C22	D22	E22	F22	G22	H22	\r\n\
-A23	B23	C23	D23	E23	F23	G23	H23	\r\n\
-A24	B24	C24	D24	E24	F24	G24	H24	\r\n\
-A25	B25	C25	D25	E25	F25	G25	H25	\r\n\
-A26	B26	C26	D26	E26	F26	G26	H26	\r\n\
-A27	B27	C27	D27	E27	F27	G27	H27	\r\n\
-A28	B28	C28	D28	E28	F28	G28	H28	\r\n\
-A29	B29	C29	D29	E29	F29	G29	H29	\r\n\
-A30	B30	C30	D30	E30	F30	G30	H30	\r\n\
-A31	B31	C31	D31	E31	F31	G31	H31	\r\n\
-A32	B32	C32	D32	E32	F32	G32	H32	\r\n\
-A33	B33	C33	D33	E33	F33	G33	H33	\r\n\
-A34	B34	C34	D34	E34	F34	G34	H34	\r\n\
-A35	B35	C35	D35	E35	F35	G35	H35	\r\n\
-A36	B36	C36	D36	E36	F36	G36	H36	\r\n\
-A37	B37	C37	D37	E37	F37	G37	H37	\r\n\
-A38	B38	C38	D38	E38	F38	G38	H38	\r\n\
-A39	B39	C39	D39	E39	F39	G39	H39	\r\n\
-A40	B40	C40	D40	E40	F40	G40	H40	\r\n\
-A41	B41	C41	D41	E41	F41	G41	H41	\r\n\
-A42	B42	C42	D42	E42	F42	G42	H42	\r\n\
-A43	B43	C43	D43	E43	F43	G43	H43	\r\n\
-A44	B44	C44	D44	E44	F44	G44	H44	\r\n\
-A45	B45	C45	D45	E45	F45	G45	H45	\r\n\
-A46	B46	C46	D46	E46	F46	G46	H46	\r\n\
-A47	B47	C47	D47	E47	F47	G47	H47	\r\n\
-A48	B48	C48	D48	E48	F48	G48	H48	\r\n\
-A49	B49	C49	D49	E49	F49	G49	H49	\r\n\
-A50	B50	C50	D50	E50	F50	G50	H50	\r\n";
+							\r\n";

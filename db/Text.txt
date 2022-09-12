@@ -1,0 +1,388 @@
+BOX_ID	TAG_ID	BOX_DAT1	BOX_DAT2	BOX_NUMITEMS	BOX_CLASS	BOX_COMM	\r\n\
+C001	04:ba:08:0a:85:32:84		Video	1	BETACAM	Así se hizo	\r\n\
+C002			Libro	1	MUSICA	Guitar Player	\r\n\
+C003			Libro		Cómic	Moulinsard	\r\n\
+C004			Caja Verde Amena	1	Revistas		\r\n\
+C005			Ropa		Toallas	Toallas	\r\n\
+C006			Ropa		Sábanas	Sábanas	\r\n\
+C007			Software		Utilidades	Quarterdeck	\r\n\
+C008			Hardware		Sonido	Afinity	\r\n\
+C009			Recuerdos	1	Decoración	Nature	\r\n\
+C010			Documentación		Varios		\r\n\
+C011			Varios		Varios		\r\n\
+C013			Hardware		Teclado PC AT	Esta caja se CAMBIÓ	\r\n\
+C014							\r\n\
+C015							\r\n\
+C016			Cintas Vídeo	Beta			\r\n\
+C017			Libro			Salvat	\r\n\
+C018			Bricolaje				\r\n\
+C019			Bricolaje	22			\r\n\
+C020			Bricolaje	17			\r\n\
+C021				3			\r\n\
+C022							\r\n\
+C023							\r\n\
+C024				6			\r\n\
+C025							\r\n\
+C026							\r\n\
+C027							\r\n\
+C028							\r\n\
+C030							\r\n\
+C031							\r\n\
+C032							\r\n\
+C033							\r\n\
+C034							\r\n\
+C035							\r\n\
+C036							\r\n\
+C037							\r\n\
+C038				18-24			\r\n\
+C039				1-75			\r\n\
+C040				76-150			\r\n\
+C041							\r\n\
+C042							\r\n\
+C043							\r\n\
+C044							\r\n\
+C045							\r\n\
+C046							\r\n\
+C047							\r\n\
+C048				151-176			\r\n\
+C049							\r\n\
+C050							\r\n\
+C051							\r\n\
+C052							\r\n\
+C053							\r\n\
+C054							\r\n\
+C055							\r\n\
+C056							\r\n\
+C057							\r\n\
+C058							\r\n\
+C059							\r\n\
+C060							\r\n\
+C061							\r\n\
+C062							\r\n\
+C063							\r\n\
+C064							\r\n\
+C065							\r\n\
+C066							\r\n\
+C067							\r\n\
+C068							\r\n\
+C068 (bis)							\r\n\
+C069							\r\n\
+C069 (bis)							\r\n\
+C070							\r\n\
+C071							\r\n\
+C072							\r\n\
+C073							\r\n\
+C074							\r\n\
+C075							\r\n\
+C080							\r\n\
+C081							\r\n\
+C082							\r\n\
+C083							\r\n\
+LP-1			Discos Vinilo				\r\n\
+LP-2			Discos Vinilo				\r\n\
+LP-3			Discos Vinilo				\r\n\
+LP-5			Discos Vinilo				\r\n\
+LP-6			Discos Vinilo				\r\n\
+LP-7			Discos Vinilo				\r\n\
+LP-8			Discos Vinilo				\r\n\
+LP-9			Discos Vinilo				\r\n\
+C084							\r\n\
+C100							\r\n\
+C100							\r\n\
+D001				4			\r\n\
+D002				4			\r\n\
+D003							\r\n\
+D004				1			\r\n\
+D005				1	HARD		\r\n\
+D006					Documentos		\r\n\
+D007				2	Varios		\r\n\
+D008					Documentos		\r\n\
+D009					Software		\r\n\
+D010					Documentos		\r\n\
+D011					Varios		\r\n\
+D012					Software		\r\n\
+E001				50			\r\n\
+E002							\r\n\
+E002							\r\n\
+E003					Documentos		\r\n\
+E004					Libros		\r\n\
+E005					Software		\r\n\
+E006					Software		\r\n\
+E007					Hardware		\r\n\
+E007					Hardware		\r\n\
+E008					Software		\r\n\
+E008				1	Software	FOX	\r\n\
+E008				1	Software	Lucas Arts	\r\n\
+E008				1	Software	Lucas Arts	\r\n\
+E008				1	Software	Lucas Arts	\r\n\
+E008				1	Software	EA	\r\n\
+E008				1	Software	Sierra	\r\n\
+E008				1	Software	Sierra	\r\n\
+E008				1	Software	Aurum Producciones	\r\n\
+E008				1	Software	Activision	\r\n\
+E008				1	Software	UBI Soft	\r\n\
+E008				1	Software	Cryo	\r\n\
+E008				1	Software	Bioware	\r\n\
+E008					Documentación		\r\n\
+E008					Fotos		\r\n\
+E009					Vídeos		\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+E010					Documentos		\r\n\
+							\r\n\
+E011					Hardware		\r\n\
+							\r\n\
+E012					Varios		\r\n\
+E012					CDs		\r\n\
+							\r\n\
+E013					Varios		\r\n\
+E013					Hardware		\r\n\
+E013					Hardware		\r\n\
+E013					Hardware		\r\n\
+E013					Consumibles		\r\n\
+E014				5	Hardware		\r\n\
+E014					Hardware		\r\n\
+E014					Varios		\r\n\
+E014					Hardware		\r\n\
+E014					CDs		\r\n\
+E015					Documentos		\r\n\
+E015					Varios		\r\n\
+E015					Varios		\r\n\
+E015				8	Varios		\r\n\
+							\r\n\
+							\r\n\
+E016					Software		\r\n\
+E016					Hardware		\r\n\
+E016					Libros		\r\n\
+							\r\n\
+E017					Documentación		\r\n\
+							\r\n\
+E-018				1	Varios		\r\n\
+E-019					Varios		\r\n\
+							\r\n\
+E-020					Varios		\r\n\
+							\r\n\
+E-021					Varios		\r\n\
+							\r\n\
+E-022					Ropa		\r\n\
+E-022					Ropa		\r\n\
+E-022					Ropa		\r\n\
+							\r\n\
+E-023					Documentación		\r\n\
+							\r\n\
+E-024					Revistas		\r\n\
+E-024					Documentación		\r\n\
+							\r\n\
+E-025					Varios		\r\n\
+							\r\n\
+E-026					Varios		\r\n\
+							\r\n\
+E-027					Vídeo		\r\n\
+							\r\n\
+E-028					Video		\r\n\
+							\r\n\
+E-029					Documentación		\r\n\
+							\r\n\
+E-030					Publicaciones		\r\n\
+							\r\n\
+E-031					Publicaciones		\r\n\
+							\r\n\
+E-032					Varios		\r\n\
+E-032				17	Hardware		\r\n\
+E-032				2	hardware		\r\n\
+E-033					Libros		\r\n\
+							\r\n\
+E-034					CDs		\r\n\
+E-034					CDs		\r\n\
+E-034					CDs		\r\n\
+							\r\n\
+E035					Audio		\r\n\
+E035					Documentos		\r\n\
+E035					Hardware		\r\n\
+E035					Video/Hardware		\r\n\
+E035					Hardware		\r\n\
+E035					Hardware		\r\n\
+E035				2	Audio		\r\n\
+E035				2	Audio		\r\n\
+E035					Fotografía		\r\n\
+E035					Hardware		\r\n\
+E035					Hardware		\r\n\
+E035					Hardware		\r\n\
+E035					Hardware		\r\n\
+E035					Hardware		\r\n\
+E035					Hardware		\r\n\
+E035					Hardware		\r\n\
+E035					Hardware		\r\n\
+E035					Varios		\r\n\
+E035					Hardware		\r\n\
+E035					Hardware		\r\n\
+E035					Hardware		\r\n\
+E035				2	Fotografía		\r\n\
+							\r\n\
+E-036					Documentos		\r\n\
+							\r\n\
+E-037					Hardware		\r\n\
+E-037					Varios		\r\n\
+E-037					Varios		\r\n\
+E-037					Documentos		\r\n\
+							\r\n\
+							\r\n\
+E-038							\r\n\
+E-038					Revistas		\r\n\
+E-038					Varios		\r\n\
+E-038							\r\n\
+E-038							\r\n\
+E-038							\r\n\
+							\r\n\
+							\r\n\
+E-039					Documentos		\r\n\
+E-039					Revistas		\r\n\
+							\r\n\
+E-040					Varios		\r\n\
+							\r\n\
+E-041					Libros		\r\n\
+E-041							\r\n\
+E-041					Documentos		\r\n\
+E-041							\r\n\
+E-041							\r\n\
+E-041							\r\n\
+E-041							\r\n\
+E-041							\r\n\
+							\r\n\
+E-042			Revistas		Revistas		\r\n\
+							\r\n\
+E-043			Ropa		Ropa		\r\n\
+							\r\n\
+E-044				1	Varios		\r\n\
+E-044					Varios		\r\n\
+E-044					Varios		\r\n\
+E-044					Varios		\r\n\
+E-044					Varios		\r\n\
+E-044					Varios		\r\n\
+E-044					Varios		\r\n\
+E-044					Varios		\r\n\
+E-044					Varios		\r\n\
+E-044					Varios		\r\n\
+E-044					Varios		\r\n\
+							\r\n\
+E-045					Varios		\r\n\
+							\r\n\
+E-046					Revistas		\r\n\
+							\r\n\
+E-047					Libros		\r\n\
+E-047					Documentación		\r\n\
+E-047					Papelería		\r\n\
+							\r\n\
+E-048					Documentación		\r\n\
+E-048					Documentación		\r\n\
+E-048					Documentación		\r\n\
+							\r\n\
+E-049					Varios		\r\n\
+E-049					Documentación		\r\n\
+E-049					Libros		\r\n\
+E-049					Cuadros		\r\n\
+E-049					Videojuegos		\r\n\
+							\r\n\
+E-050					Varios		\r\n\
+							\r\n\
+E-051					Vídeo		\r\n\
+E-051					Hardware		\r\n\
+E-051					Hardware		\r\n\
+							\r\n\
+E-052					Software		\r\n\
+							\r\n\
+E-053					Software		\r\n\
+							\r\n\
+E-054					Varios		\r\n\
+E-055					Varios		\r\n\
+							\r\n\
+							\r\n\
+E-056					Cómics		\r\n\
+							\r\n\
+E-057					Varios		\r\n\
+					Hardware		\r\n\
+					Vídeo		\r\n\
+							\r\n\
+E-058					Libros		\r\n\
+					Revistas		\r\n\
+					Cómics		\r\n\
+					Revistas		\r\n\
+							\r\n\
+							\r\n\
+E-059					Revistas		\r\n\
+							\r\n\
+					Software		\r\n\
+							\r\n\
+					Revistas		\r\n\
+					Hardware		\r\n\
+							\r\n\
+E-060					Software		\r\n\
+E-061							\r\n\
+E-062					Ropa		\r\n\
+E-063					Varios		\r\n\
+E-064					Varios		\r\n\
+E-065							\r\n\
+E-066							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+E-067							\r\n\
+E-067							\r\n\
+E-067							\r\n\
+E-067							\r\n\
+E-067							\r\n\
+E-067							\r\n\
+E-067							\r\n\
+E-067							\r\n\
+E-067							\r\n\
+							\r\n\
+E-069							\r\n\
+							\r\n\
+E-070							\r\n\
+							\r\n\
+E-071							\r\n\
+E-071							\r\n\
+E-071							\r\n\
+							\r\n\
+E-072							\r\n\
+E-072							\r\n\
+							\r\n\
+E-073							\r\n\
+E-074							\r\n\
+E-076							\r\n\
+E-078							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+E-081							\r\n\
+E-082							\r\n\
+M001	53:f0:ed:f2:10:00:01				Materiales Consumibles		\r\n\
+T001	53:f7:41:f2:10:00:01				Herramientas		\r\n\
+T002	53:e5:c2:f2:10:00:01				Herramientas		\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
+							\r\n\
