@@ -1593,9 +1593,9 @@ M001	29		1		Loctite Super Glue 3 Adhesivo		\r\n\
 M001	30		1		Pegamento Cola de Contacto Supergen		\r\n\
 M001	31		1		Masilla para Azulejos Bruguer		\r\n\
 M001	32		1		Cable Unifilar Rígido		\r\n\
-M001	33		1		Cable flexible audio 2+gnd		\r\n\
-M001	34		1				\r\n\
-M001	35		1				\r\n\
+M001	33		1		Cable flexible audio 2+GND		\r\n\
+M001	34		1		LABEL Adhesivo para PVC		\r\n\
+M001	35		1		Aire Comprimido para Limpieza		\r\n\
 M001	36		1				\r\n\
 							\r\n\
 							\r\n\
