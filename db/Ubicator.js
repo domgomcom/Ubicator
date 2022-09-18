@@ -1565,10 +1565,10 @@ M001	1		4		Alambre plastificado		\r\n\
 M001	2		1		Etiquetas de Impresora Adhesivas		\r\n\
 M001	3		1		Barras de pegamento térmico para fundir		\r\n\
 M001	4		1		Surtido de cables flexibles cubierta goma		\r\n\
-M001	5		2		Cinta de Carrocero o Pintor		\r\n\
-M001	6		3		Cinta Adhesiva Transparente de Embalar		\r\n\
+M001	5		2		Cinta Adhesiva de Carrocero o Pintor		\r\n\
+M001	6		4		Cinta Adhesiva Transparente de Embalar		\r\n\
 M001	7		1		Cinta Adhesiva Doble Cara		\r\n\
-M001	8		2		Cinta Adhesiva Marrón de Embalar		\r\n\
+M001	8		1		Cinta Adhesiva Marrón de Embalar		\r\n\
 M001	9		1		Cinta Adhesiva Americana		\r\n\
 M001	10		1		Alambre de Acero Trenzado Fino		\r\n\
 M001	11		1		Termorretráctil grande		\r\n\
@@ -1590,13 +1590,25 @@ M001	26		1		Tubo Aguaplast		\r\n\
 M001	27		1		3en1 Tres en Uno Lubricante Multiuso		\r\n\
 M001	28		1		Adhesivo CEYS Fibra de Vídrio		\r\n\
 M001	29		1		Loctite Super Glue 3 Adhesivo		\r\n\
-M001	30		1		Pegamento Cola de Contacto Supergen		\r\n\
+M001	30		2		Pegamento Cola de Contacto Supergen		\r\n\
 M001	31		1		Masilla para Azulejos Bruguer		\r\n\
 M001	32		1		Cable Unifilar Rígido		\r\n\
 M001	33		1		Cable flexible audio 2+GND		\r\n\
 M001	34		1		CABEL Adhesivo para PVC		\r\n\
 M001	35		1		Aire Comprimido para Limpieza		\r\n\
-M001	36		1				\r\n\
-							\r\n\
-							\r\n\
-							\r\n";
+M001	36		1		Tubo Termoretráctil negro fino varios tamaños		\r\n\
+M001	37		1		Bridas pequeñas negras		\r\n\
+M001	38		1		Termoretráctiles Negros Intermedios		\r\n\
+M001	39		1		Pegamento Plástico Silbor		\r\n\
+M001	40		1		Bobina Hilo Alambre Fino		\r\n\
+M001	41		1		Sierras de calar y vaivén		\r\n\
+M001	42		1		Sellajuntas exterior ALABASTINE		\r\n\
+M001	43		1		Plástico fino gran tamaño protección pintor		\r\n\
+M001			1				\r\n\
+M001			1				\r\n\
+M001			1				\r\n\
+M001			1				\r\n\
+M001			1				\r\n\
+M001			1				\r\n\
+M001			1				\r\n\
+M001			1				\r\n";
