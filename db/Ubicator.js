@@ -427,7 +427,7 @@ T001	2		1		Pistola de Calor		\r\n\
 T001	3		1		Calibrador Pie de Rey		\r\n\
 T001	4		1		Tijeras Electricista		\r\n\
 T001	5		1		Pelacables		\r\n\
-T001	6		1		Alicates Punta Fina		\r\n\
+T001	6		1		Alicates Punta Fina Rojos		\r\n\
 T001	7		1		Soldador		\r\n\
 T001	8		1		Llave inglesa mediana		\r\n\
 T001	9		1		Cutter		\r\n\
@@ -469,7 +469,7 @@ T001	44		1		Juego Llaves de Tubo		\r\n\
 T001	45		1		Bits CNC puntas de fresado		\r\n\
 T001	46		1		Lima Cola de Ratón		\r\n\
 T001	47		1		Tijeras Azules Papel		\r\n\
-T001	48		1		Juego Brocas Hierro		\r\n\
+T001							\r\n\
 T001	49		1		Soldador Azul		\r\n\
 T001	50		1		Soldador Blanco/Negro		\r\n\
 T001	51		1		Lima Cola de Ratón		\r\n\
@@ -480,6 +480,9 @@ T001	55		1		Grapadora		\r\n\
 T001	56		1		Perforadora Papel un agujero		\r\n\
 T001	57		1		Cuchillo		\r\n\
 T001	58		1		Adaptador USB-SATA		\r\n\
+T001	59		1		Tijeras Papel Rojas		\r\n\
+T001	60		1		Kit de llaves Allen		\r\n\
+T001	61		1		Alicates Mordaza		\r\n\
 T002	1		1		Cargador Pilas NiCad AAA y AA		\r\n\
 T002	2		1		Cargador Pilas LIPO		\r\n\
 T002	3		1		Kit de herramientas desmontaje móviles		\r\n\
@@ -1583,7 +1586,7 @@ M001	19		1		Bridas Negras Pequeñas		\r\n\
 M001	20		1		Teflón para juntas		\r\n\
 M001	21		1		Esponja Limpieza Soldador		\r\n\
 M001	22		1		Silicona con Pistola Aplicadora		\r\n\
-M001	23		1		Correa de Goma G2		\r\n\
+M001	23		1		Correa de Goma G2T		\r\n\
 M001	24		1		Cinta Adhesiva de Cobre		\r\n\
 M001	25		1		Cinta Velcro Negro para Cableado		\r\n\
 M001	26		1		Tubo Aguaplast		\r\n\
@@ -1593,7 +1596,7 @@ M001	29		1		Loctite Super Glue 3 Adhesivo		\r\n\
 M001	30		2		Pegamento Cola de Contacto Supergen		\r\n\
 M001	31		1		Masilla para Azulejos Bruguer		\r\n\
 M001	32		1		Cable Unifilar Rígido		\r\n\
-M001	33		1		Cable flexible audio 2+GND		\r\n\
+M001	33		2		Cable flexible audio 2+GND		\r\n\
 M001	34		1		CABEL Adhesivo para PVC		\r\n\
 M001	35		1		Aire Comprimido para Limpieza		\r\n\
 M001	36		1		Tubo Termoretráctil negro fino varios tamaños		\r\n\
@@ -1604,11 +1607,11 @@ M001	40		1		Bobina Hilo Alambre Fino		\r\n\
 M001	41		1		Sierras de calar y vaivén		\r\n\
 M001	42		1		Sellajuntas exterior ALABASTINE		\r\n\
 M001	43		1		Plástico fino gran tamaño protección pintor		\r\n\
-M001			1				\r\n\
-M001			1				\r\n\
-M001			1				\r\n\
-M001			1				\r\n\
-M001			1				\r\n\
-M001			1				\r\n\
+M001	44		1		Goma PVC cantonera pefiles aluminio		\r\n\
+M001	45		1		Cordel nylon tendedor		\r\n\
+M001	46		1		Parches para Lona y Caucho		\r\n\
+M001	47		1		Tubo Teflón Impresoras 3D tipo Bowden		\r\n\
+M001	48		1		Tacos Espiches		\r\n\
+M001	49		1		Juego Brocas Hierro		\r\n\
 M001			1				\r\n\
 M001			1				\r\n";
