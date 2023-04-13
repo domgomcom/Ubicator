@@ -164,44 +164,44 @@ E016					Libros		\r\n\
 							\r\n\
 E017					Documentación		\r\n\
 							\r\n\
-E-018				1	Varios		\r\n\
-E-019					Varios		\r\n\
+E018				1	Varios		\r\n\
+E019					Varios		\r\n\
 							\r\n\
-E-020					Varios		\r\n\
+E020					Varios		\r\n\
 							\r\n\
-E-021					Varios		\r\n\
+E021					Varios		\r\n\
 							\r\n\
-E-022					Ropa		\r\n\
-E-022					Ropa		\r\n\
-E-022					Ropa		\r\n\
+E022					Ropa		\r\n\
+E022					Ropa		\r\n\
+E022					Ropa		\r\n\
 							\r\n\
-E-023					Documentación		\r\n\
+E023					Documentación		\r\n\
 							\r\n\
-E-024					Revistas		\r\n\
-E-024					Documentación		\r\n\
+E024					Revistas		\r\n\
+E024					Documentación		\r\n\
 							\r\n\
-E-025					Varios		\r\n\
+E025					Varios		\r\n\
 							\r\n\
-E-026					Varios		\r\n\
+E026					Varios		\r\n\
 							\r\n\
-E-027					Vídeo		\r\n\
+E027					Vídeo		\r\n\
 							\r\n\
-E-028					Video		\r\n\
+E028					Video		\r\n\
 							\r\n\
-E-029					Documentación		\r\n\
+E029					Documentación		\r\n\
 							\r\n\
-E-030					Publicaciones		\r\n\
+E030					Publicaciones		\r\n\
 							\r\n\
-E-031					Publicaciones		\r\n\
+E031					Publicaciones		\r\n\
 							\r\n\
-E-032					Varios		\r\n\
-E-032				17	Hardware		\r\n\
-E-032				2	hardware		\r\n\
-E-033					Libros		\r\n\
+E032					Varios		\r\n\
+E032				17	Hardware		\r\n\
+E032				2	hardware		\r\n\
+E033					Libros		\r\n\
 							\r\n\
-E-034					CDs		\r\n\
-E-034					CDs		\r\n\
-E-034					CDs		\r\n\
+E034					CDs		\r\n\
+E034					CDs		\r\n\
+E034					CDs		\r\n\
 							\r\n\
 E035					Audio		\r\n\
 E035					Documentos		\r\n\
@@ -226,110 +226,110 @@ E035					Hardware		\r\n\
 E035					Hardware		\r\n\
 E035				2	Fotografía		\r\n\
 							\r\n\
-E-036					Documentos		\r\n\
+E036					Documentos		\r\n\
 							\r\n\
-E-037					Hardware		\r\n\
-E-037					Varios		\r\n\
-E-037					Varios		\r\n\
-E-037					Documentos		\r\n\
-							\r\n\
-							\r\n\
-E-038							\r\n\
-E-038					Revistas		\r\n\
-E-038					Varios		\r\n\
-E-038							\r\n\
-E-038							\r\n\
-E-038							\r\n\
+E037					Hardware		\r\n\
+E037					Varios		\r\n\
+E037					Varios		\r\n\
+E037					Documentos		\r\n\
 							\r\n\
 							\r\n\
-E-039					Documentos		\r\n\
-E-039					Revistas		\r\n\
-							\r\n\
-E-040					Varios		\r\n\
-							\r\n\
-E-041					Libros		\r\n\
-E-041							\r\n\
-E-041					Documentos		\r\n\
-E-041							\r\n\
-E-041							\r\n\
-E-041							\r\n\
-E-041							\r\n\
-E-041							\r\n\
-							\r\n\
-E-042			Revistas		Revistas		\r\n\
-							\r\n\
-E-043			Ropa		Ropa		\r\n\
-							\r\n\
-E-044				1	Varios		\r\n\
-E-044					Varios		\r\n\
-E-044					Varios		\r\n\
-E-044					Varios		\r\n\
-E-044					Varios		\r\n\
-E-044					Varios		\r\n\
-E-044					Varios		\r\n\
-E-044					Varios		\r\n\
-E-044					Varios		\r\n\
-E-044					Varios		\r\n\
-E-044					Varios		\r\n\
-							\r\n\
-E-045					Varios		\r\n\
-							\r\n\
-E-046					Revistas		\r\n\
-							\r\n\
-E-047					Libros		\r\n\
-E-047					Documentación		\r\n\
-E-047					Papelería		\r\n\
-							\r\n\
-E-048					Documentación		\r\n\
-E-048					Documentación		\r\n\
-E-048					Documentación		\r\n\
-							\r\n\
-E-049					Varios		\r\n\
-E-049					Documentación		\r\n\
-E-049					Libros		\r\n\
-E-049					Cuadros		\r\n\
-E-049					Videojuegos		\r\n\
-							\r\n\
-E-050					Varios		\r\n\
-							\r\n\
-E-051					Vídeo		\r\n\
-E-051					Hardware		\r\n\
-E-051					Hardware		\r\n\
-							\r\n\
-E-052					Software		\r\n\
-							\r\n\
-E-053					Software		\r\n\
-							\r\n\
-E-054					Varios		\r\n\
-E-055					Varios		\r\n\
+E038							\r\n\
+E038					Revistas		\r\n\
+E038					Varios		\r\n\
+E038							\r\n\
+E038							\r\n\
+E038							\r\n\
 							\r\n\
 							\r\n\
-E-056					Cómics		\r\n\
+E039					Documentos		\r\n\
+E039					Revistas		\r\n\
 							\r\n\
-E-057					Varios		\r\n\
+E040					Varios		\r\n\
+							\r\n\
+E041					Libros		\r\n\
+E041							\r\n\
+E041					Documentos		\r\n\
+E041							\r\n\
+E041							\r\n\
+E041							\r\n\
+E041							\r\n\
+E041							\r\n\
+							\r\n\
+E042			Revistas		Revistas		\r\n\
+							\r\n\
+E043			Ropa		Ropa		\r\n\
+							\r\n\
+E044				1	Varios		\r\n\
+E044					Varios		\r\n\
+E044					Varios		\r\n\
+E044					Varios		\r\n\
+E044					Varios		\r\n\
+E044					Varios		\r\n\
+E044					Varios		\r\n\
+E044					Varios		\r\n\
+E044					Varios		\r\n\
+E044					Varios		\r\n\
+E044					Varios		\r\n\
+							\r\n\
+E045					Varios		\r\n\
+							\r\n\
+E046					Revistas		\r\n\
+							\r\n\
+E047					Libros		\r\n\
+E047					Documentación		\r\n\
+E047					Papelería		\r\n\
+							\r\n\
+E048					Documentación		\r\n\
+E048					Documentación		\r\n\
+E048					Documentación		\r\n\
+							\r\n\
+E049					Varios		\r\n\
+E049					Documentación		\r\n\
+E049					Libros		\r\n\
+E049					Cuadros		\r\n\
+E049					Videojuegos		\r\n\
+							\r\n\
+E050					Varios		\r\n\
+							\r\n\
+E051					Vídeo		\r\n\
+E051					Hardware		\r\n\
+E051					Hardware		\r\n\
+							\r\n\
+E052					Software		\r\n\
+							\r\n\
+E053					Software		\r\n\
+							\r\n\
+E054					Varios		\r\n\
+E055					Varios		\r\n\
+							\r\n\
+							\r\n\
+E056					Cómics		\r\n\
+							\r\n\
+E057					Varios		\r\n\
 					Hardware		\r\n\
 					Vídeo		\r\n\
 							\r\n\
-E-058					Libros		\r\n\
+E058					Libros		\r\n\
 					Revistas		\r\n\
 					Cómics		\r\n\
 					Revistas		\r\n\
 							\r\n\
 							\r\n\
-E-059					Revistas		\r\n\
+E059					Revistas		\r\n\
 							\r\n\
 					Software		\r\n\
 							\r\n\
 					Revistas		\r\n\
 					Hardware		\r\n\
 							\r\n\
-E-060					Software		\r\n\
-E-061							\r\n\
-E-062					Ropa		\r\n\
-E-063					Varios		\r\n\
-E-064					Varios		\r\n\
-E-065							\r\n\
-E-066							\r\n\
+E060					Software		\r\n\
+E061							\r\n\
+E062					Ropa		\r\n\
+E063					Varios		\r\n\
+E064					Varios		\r\n\
+E065							\r\n\
+E066							\r\n\
 							\r\n\
 							\r\n\
 							\r\n\
@@ -337,33 +337,31 @@ E-066							\r\n\
 							\r\n\
 							\r\n\
 							\r\n\
-E-067							\r\n\
-E-067							\r\n\
-E-067							\r\n\
-E-067							\r\n\
-E-067							\r\n\
-E-067							\r\n\
-E-067							\r\n\
-E-067							\r\n\
-E-067							\r\n\
+E067							\r\n\
+E067							\r\n\
+E067							\r\n\
+E067							\r\n\
+E067							\r\n\
+E067							\r\n\
+E067							\r\n\
+E067							\r\n\
+E067							\r\n\
 							\r\n\
-E-069							\r\n\
+E069							\r\n\
 							\r\n\
-E-070							\r\n\
+E070							\r\n\
 							\r\n\
-E-071							\r\n\
-E-071							\r\n\
-E-071							\r\n\
+E071							\r\n\
+E071							\r\n\
+E071							\r\n\
 							\r\n\
-E-072							\r\n\
-E-072							\r\n\
+E072							\r\n\
+E072							\r\n\
 							\r\n\
-E-073							\r\n\
-E-074							\r\n\
-E-076							\r\n\
-E-078							\r\n\
-							\r\n\
-							\r\n\
+E073							\r\n\
+E074							\r\n\
+E076							\r\n\
+E078							\r\n\
 							\r\n\
 							\r\n\
 							\r\n\
@@ -372,8 +370,10 @@ E-078							\r\n\
 							\r\n\
 							\r\n\
 							\r\n\
-E-081							\r\n\
-E-082							\r\n\
+							\r\n\
+							\r\n\
+E081							\r\n\
+E082							\r\n\
 S001	53:f0:ed:f2:10:00:01				Materiales Consumibles		\r\n\
 T001	53:f7:41:f2:10:00:01				Herramientas		\r\n\
 T002	53:e5:c2:f2:10:00:01				Herramientas		\r\n\
@@ -1246,40 +1246,40 @@ E016				Software	Sin Clasificar		\r\n\
 E016				Hardware	Altavoces (Sin Clasificar)		\r\n\
 E016				Libros	Sin Clasificar		\r\n\
 E017				Documentación	Varios sin Clasificar		\r\n\
-E-018			1	Varios	Bolsa / Cartera Imagina Azul		\r\n\
-E-018			1	Varios	Bolsa / Cartera cremallera Imagina Azul		\r\n\
-E-018			1	Varios	Bolsa negra Axel Springer / Hobby Press		\r\n\
-E-018			1	Varios	Bolsa / Cartera cremallera Imagina Verde		\r\n\
-E-018			1	Varios	Bolsa Cartera negra Apple imitación semipiel		\r\n\
-E-018			1	Varios			\r\n\
-E-018			1	Varios	Tapas para PCMANIA. Caja desmontable plástica.		\r\n\
-E-018			1	Varios			\r\n\
-E-018			1	Varios			\r\n\
-E-018			1	Varios			\r\n\
-E-018			1	Varios			\r\n\
-E-019				Varios	Cosas Pequeñas sin Organizar		\r\n\
-E-020				Varios	Cosas Pequeñas sin Organizar		\r\n\
-E-021				Varios	Documentos y Revistas. Sin Clasificar.		\r\n\
-E-022				Ropa	Ropa de Cama Varia		\r\n\
-E-022				Ropa	Camisetas publicitarias		\r\n\
-E-022				Ropa	Pantalón tana toraja		\r\n\
-E-023				Documentación	Documentos sin clasificar, la mayoría antiguos: Photodata y Hobbypress		\r\n\
-E-024				Revistas	Revistas HobbyPress: Netmanía, Micromanía		\r\n\
-E-024				Documentación	Comunicaciones Home plug and play. Protocolos de comunicación para el Hogar		\r\n\
-E-025				Varios	Cosas varias sin clasificar, libros, ollas, etc.		\r\n\
-E-026				Varios	Toallas varios tipos		\r\n\
-E-027				Vídeo	Cintas de Vídeo Varias sin Clasificar		\r\n\
-E-028				Video	Cintas de Vídeo. La mayoría de Jazz		\r\n\
-E-029				Documentación	Cartas de Cine XXI, Press Books de Películas		\r\n\
-E-030				Publicaciones	Revistas varias, Publicaciones Art Futura, libro EGM, Habitania		\r\n\
-E-031				Publicaciones	Revistas de todo tipo, sin clasificar		\r\n\
-E-032				Varios	Patas Mueble cocina, cacharros de todo tipo sin organizar, Papelera azul		\r\n\
-E-032			17	Hardware	lamparas bajo consumo		\r\n\
-E-032			2	hardware	Lámparas halógenas		\r\n\
-E-033				Libros	Libros Variados sin Clasificar		\r\n\
-E-034				CDs	CDs/DVDs Vírgenes		\r\n\
-E-034				CDs	Colección DVDs del Cirque Du Soleil		\r\n\
-E-034				CDs	CDs Varios sin clasificar		\r\n\
+E018			1	Varios	Bolsa / Cartera Imagina Azul		\r\n\
+E018			1	Varios	Bolsa / Cartera cremallera Imagina Azul		\r\n\
+E018			1	Varios	Bolsa negra Axel Springer / Hobby Press		\r\n\
+E018			1	Varios	Bolsa / Cartera cremallera Imagina Verde		\r\n\
+E018			1	Varios	Bolsa Cartera negra Apple imitación semipiel		\r\n\
+E018			1	Varios			\r\n\
+E018			1	Varios	Tapas para PCMANIA. Caja desmontable plástica.		\r\n\
+E018			1	Varios			\r\n\
+E018			1	Varios			\r\n\
+E018			1	Varios			\r\n\
+E018			1	Varios			\r\n\
+E019				Varios	Cosas Pequeñas sin Organizar		\r\n\
+E020				Varios	Cosas Pequeñas sin Organizar		\r\n\
+E021				Varios	Documentos y Revistas. Sin Clasificar.		\r\n\
+E022				Ropa	Ropa de Cama Varia		\r\n\
+E022				Ropa	Camisetas publicitarias		\r\n\
+E022				Ropa	Pantalón tana toraja		\r\n\
+E023				Documentación	Documentos sin clasificar, la mayoría antiguos: Photodata y Hobbypress		\r\n\
+E024				Revistas	Revistas HobbyPress: Netmanía, Micromanía		\r\n\
+E024				Documentación	Comunicaciones Home plug and play. Protocolos de comunicación para el Hogar		\r\n\
+E025				Varios	Cosas varias sin clasificar, libros, ollas, etc.		\r\n\
+E026				Varios	Toallas varios tipos		\r\n\
+E027				Vídeo	Cintas de Vídeo Varias sin Clasificar		\r\n\
+E028				Video	Cintas de Vídeo. La mayoría de Jazz		\r\n\
+E029				Documentación	Cartas de Cine XXI, Press Books de Películas		\r\n\
+E030				Publicaciones	Revistas varias, Publicaciones Art Futura, libro EGM, Habitania		\r\n\
+E031				Publicaciones	Revistas de todo tipo, sin clasificar		\r\n\
+E032				Varios	Patas Mueble cocina, cacharros de todo tipo sin organizar, Papelera azul		\r\n\
+E032			17	Hardware	lamparas bajo consumo		\r\n\
+E032			2	hardware	Lámparas halógenas		\r\n\
+E033				Libros	Libros Variados sin Clasificar		\r\n\
+E034				CDs	CDs/DVDs Vírgenes		\r\n\
+E034				CDs	Colección DVDs del Cirque Du Soleil		\r\n\
+E034				CDs	CDs Varios sin clasificar		\r\n\
 E035				Audio	Cintas de Audio, Grabadas y Vírgenes		\r\n\
 E035				Documentos	Credenciales varias		\r\n\
 E035				Hardware	Aparatos Varios Sin Clasificar		\r\n\
@@ -1302,138 +1302,138 @@ E035				Hardware	Adaptador SCSI II Adapter PCMCIA		\r\n\
 E035				Hardware	3Com USB Wifi Adapter		\r\n\
 E035				Hardware	Módem USB EasyComm 56-U		\r\n\
 E035			2	Fotografía	Papel Ilford		\r\n\
-E-036				Documentos	Varios sin Clasificar. Sobre todo de Photodata y HobbyPress. Ordenador Sinclair Z-88		\r\n\
-E-037				Hardware	Sega Megradrive		\r\n\
-E-037				Varios	Sobres		\r\n\
-E-037				Varios	Cuadros Sonia		\r\n\
-E-037				Documentos	Documentos de Buceo		\r\n\
-E-038							\r\n\
-E-038				Revistas	Revistas y Cómics		\r\n\
-E-038				Varios	Disquetes Spectrum +3		\r\n\
-E-038							\r\n\
-E-038							\r\n\
-E-038							\r\n\
-E-039				Documentos	Sin Clasificar		\r\n\
-E-039				Revistas	Sin Clasificar		\r\n\
-E-040				Varios	Trastos Varios Sin Clasificar		\r\n\
-E-041				Libros	Libros (Sin Clasificar)		\r\n\
-E-041					Revistas (Sin Clasificar)		\r\n\
-E-041				Documentos	Documentación (Sin Clasificar)		\r\n\
-E-041					Trivial Pursuit Genius Edition		\r\n\
-E-041					Flores Secas (fascículos)		\r\n\
-E-041					Alfombrillas de Ratón (Mouse Pads)		\r\n\
-E-041					Papel Impresora Inyección Tinta A4		\r\n\
-E-041					Transparencias Acetato Impresora Laser		\r\n\
-E-042		Revistas		Revistas	Revistas Varias sin Clasificar		\r\n\
-E-043		Ropa		Ropa	Sudaderas, Camisas, Camisetas, Pijamas		\r\n\
-E-044			1	Varios	Placas de Circuíto Impreso Fibra de Vídrio		\r\n\
-E-044				Varios	Revistas Micromanías		\r\n\
-E-044				Varios	Tendedero de Cordel		\r\n\
-E-044				Varios	Herrajes para Tendedero de Cordel		\r\n\
-E-044				Varios	Vídeo Portero SHINER R-90, módulo interior		\r\n\
-E-044				Varios	Caja Móvil AMENA		\r\n\
-E-044				Varios	Documentación Sin Clasificar		\r\n\
-E-044				Varios	Documentos sobre Fotografía		\r\n\
-E-044				Varios	Carpetas Vacías		\r\n\
-E-044				Varios	Documentos Pearson Inglés		\r\n\
-E-044				Varios	Documentación de Video Portero		\r\n\
-E-045				Varios	Revistas y Documentos Sin Organizar		\r\n\
-E-046				Revistas	Ejemplares de Cine XXI, folleto de Exposición de Círculo de Bellas Artes		\r\n\
-E-047				Libros	Libros sin clasificar, Leonardo, el Monje, Paolo Cohello		\r\n\
-E-047				Documentación	Documentación sin Clasificar		\r\n\
-E-047				Papelería	Sobres Varios		\r\n\
-E-048				Documentación	Documentos SIn Clasificar		\r\n\
-E-048				Documentación	Cosas de Cine XXI, libros y Revistas		\r\n\
-E-048				Documentación	Hobby Consolas		\r\n\
-E-049				Varios	Varios Sin Clasificar		\r\n\
-E-049				Documentación	Documentos sin clasificar		\r\n\
-E-049				Libros	Libro de Masajes		\r\n\
-E-049				Cuadros	Cuadritos Pequeños Piso		\r\n\
-E-049				Videojuegos	EcoQuest		\r\n\
+E036				Documentos	Varios sin Clasificar. Sobre todo de Photodata y HobbyPress. Ordenador Sinclair Z-88		\r\n\
+E037				Hardware	Sega Megradrive		\r\n\
+E037				Varios	Sobres		\r\n\
+E037				Varios	Cuadros Sonia		\r\n\
+E037				Documentos	Documentos de Buceo		\r\n\
+E038							\r\n\
+E038				Revistas	Revistas y Cómics		\r\n\
+E038				Varios	Disquetes Spectrum +3		\r\n\
+E038							\r\n\
+E038							\r\n\
+E038							\r\n\
+E039				Documentos	Sin Clasificar		\r\n\
+E039				Revistas	Sin Clasificar		\r\n\
+E040				Varios	Trastos Varios Sin Clasificar		\r\n\
+E041				Libros	Libros (Sin Clasificar)		\r\n\
+E041					Revistas (Sin Clasificar)		\r\n\
+E041				Documentos	Documentación (Sin Clasificar)		\r\n\
+E041					Trivial Pursuit Genius Edition		\r\n\
+E041					Flores Secas (fascículos)		\r\n\
+E041					Alfombrillas de Ratón (Mouse Pads)		\r\n\
+E041					Papel Impresora Inyección Tinta A4		\r\n\
+E041					Transparencias Acetato Impresora Laser		\r\n\
+E042		Revistas		Revistas	Revistas Varias sin Clasificar		\r\n\
+E043		Ropa		Ropa	Sudaderas, Camisas, Camisetas, Pijamas		\r\n\
+E044			1	Varios	Placas de Circuíto Impreso Fibra de Vídrio		\r\n\
+E044				Varios	Revistas Micromanías		\r\n\
+E044				Varios	Tendedero de Cordel		\r\n\
+E044				Varios	Herrajes para Tendedero de Cordel		\r\n\
+E044				Varios	Vídeo Portero SHINER R-90, módulo interior		\r\n\
+E044				Varios	Caja Móvil AMENA		\r\n\
+E044				Varios	Documentación Sin Clasificar		\r\n\
+E044				Varios	Documentos sobre Fotografía		\r\n\
+E044				Varios	Carpetas Vacías		\r\n\
+E044				Varios	Documentos Pearson Inglés		\r\n\
+E044				Varios	Documentación de Video Portero		\r\n\
+E045				Varios	Revistas y Documentos Sin Organizar		\r\n\
+E046				Revistas	Ejemplares de Cine XXI, folleto de Exposición de Círculo de Bellas Artes		\r\n\
+E047				Libros	Libros sin clasificar, Leonardo, el Monje, Paolo Cohello		\r\n\
+E047				Documentación	Documentación sin Clasificar		\r\n\
+E047				Papelería	Sobres Varios		\r\n\
+E048				Documentación	Documentos SIn Clasificar		\r\n\
+E048				Documentación	Cosas de Cine XXI, libros y Revistas		\r\n\
+E048				Documentación	Hobby Consolas		\r\n\
+E049				Varios	Varios Sin Clasificar		\r\n\
+E049				Documentación	Documentos sin clasificar		\r\n\
+E049				Libros	Libro de Masajes		\r\n\
+E049				Cuadros	Cuadritos Pequeños Piso		\r\n\
+E049				Videojuegos	EcoQuest		\r\n\
 							\r\n\
-E-050				Varios	Objetos y Documentos Sin Clasificar		\r\n\
+E050				Varios	Objetos y Documentos Sin Clasificar		\r\n\
 							\r\n\
-E-051				Vídeo	Cintas BetaCam		\r\n\
-E-051				Hardware	Lector de DataPacks		\r\n\
-E-051				Hardware	DataPacks		\r\n\
-E-052				Software	Programas Originales		\r\n\
-E-053				Software	CDs Recientes		\r\n\
-E-054				Varios	Varios SIN Clasificar		\r\n\
-E-054			2	Deportes	Balón de Fútbol de cuero		\r\n\
-E-054				Herramientas	Soporte Vertical Taladrador Dremel		\r\n\
-E-054			1		Bolso Bahamas Loros		\r\n\
-E-054			1		Mochila de Trapo Rojo		\r\n\
-E-054			1		Lata con PINs de Sega		\r\n\
-E-054					Documentación sobre Kenia y Tanzania		\r\n\
-E-055				Varios	Revistas sin Calsificar		\r\n\
-E-055				Documentación	Documentación Espeleología		\r\n\
-E-056				Cómics	Cómics		\r\n\
-E-057				Varios	Documentos SIN Clasificar		\r\n\
-E-057				Hardware	Impresora de Etiquetas		\r\n\
-E-057				Vídeo	Caja DVD Player Portatil		\r\n\
-E-058				Libros	Sin Clasificar		\r\n\
-E-058				Revistas	Sin Clasificar		\r\n\
-E-058				Cómics	Colección Cómics V Centenario		\r\n\
-E-058				Revistas	Colección ELEKTOR		\r\n\
-E-059				Revistas	Micromanías Segunda Época		\r\n\
-E-059					Documentación Hellín Ibercom / AICOX		\r\n\
-E-059				Software	SQL Server 2000 Standard Edition		\r\n\
-E-059					Paño de hule		\r\n\
-E-059				Revistas	Revistas SIN Clasificar: HOT Shareware		\r\n\
-E-059				Hardware	Caja Accesorios PC Industrial de Ibercom / AICOX		\r\n\
-E-060				Software	Software Original sin Clasificar		\r\n\
-E-060			2	Hardware	Módems SupraFax Móden 28800		\r\n\
-E-060			1	Maqueta	Maqueta cañón miniatura Jose Ignacio		\r\n\
-E-062				Ropa	Ropa Cama Pequeña		\r\n\
-E-062				Ropa	Colcha Ganchillo		\r\n\
-E-062				Ropa	Bordados Mama		\r\n\
-E-063				Varios	Archivadores Vacíos tipo AZ		\r\n\
-E-064				Varios	Papel Fotográfico		\r\n\
-E-064					Revistas		\r\n\
-E-064					Documentos sin clasificar		\r\n\
-E-064					El Quijote		\r\n\
-E-064					Disquetes		\r\n\
+E051				Vídeo	Cintas BetaCam		\r\n\
+E051				Hardware	Lector de DataPacks		\r\n\
+E051				Hardware	DataPacks		\r\n\
+E052				Software	Programas Originales		\r\n\
+E053				Software	CDs Recientes		\r\n\
+E054				Varios	Varios SIN Clasificar		\r\n\
+E054			2	Deportes	Balón de Fútbol de cuero		\r\n\
+E054				Herramientas	Soporte Vertical Taladrador Dremel		\r\n\
+E054			1		Bolso Bahamas Loros		\r\n\
+E054			1		Mochila de Trapo Rojo		\r\n\
+E054			1		Lata con PINs de Sega		\r\n\
+E054					Documentación sobre Kenia y Tanzania		\r\n\
+E055				Varios	Revistas sin Calsificar		\r\n\
+E055				Documentación	Documentación Espeleología		\r\n\
+E056				Cómics	Cómics		\r\n\
+E057				Varios	Documentos SIN Clasificar		\r\n\
+E057				Hardware	Impresora de Etiquetas		\r\n\
+E057				Vídeo	Caja DVD Player Portatil		\r\n\
+E058				Libros	Sin Clasificar		\r\n\
+E058				Revistas	Sin Clasificar		\r\n\
+E058				Cómics	Colección Cómics V Centenario		\r\n\
+E058				Revistas	Colección ELEKTOR		\r\n\
+E059				Revistas	Micromanías Segunda Época		\r\n\
+E059					Documentación Hellín Ibercom / AICOX		\r\n\
+E059				Software	SQL Server 2000 Standard Edition		\r\n\
+E059					Paño de hule		\r\n\
+E059				Revistas	Revistas SIN Clasificar: HOT Shareware		\r\n\
+E059				Hardware	Caja Accesorios PC Industrial de Ibercom / AICOX		\r\n\
+E060				Software	Software Original sin Clasificar		\r\n\
+E060			2	Hardware	Módems SupraFax Móden 28800		\r\n\
+E060			1	Maqueta	Maqueta cañón miniatura Jose Ignacio		\r\n\
+E062				Ropa	Ropa Cama Pequeña		\r\n\
+E062				Ropa	Colcha Ganchillo		\r\n\
+E062				Ropa	Bordados Mama		\r\n\
+E063				Varios	Archivadores Vacíos tipo AZ		\r\n\
+E064				Varios	Papel Fotográfico		\r\n\
+E064					Revistas		\r\n\
+E064					Documentos sin clasificar		\r\n\
+E064					El Quijote		\r\n\
+E064					Disquetes		\r\n\
 					CDs		\r\n\
 					DVDs		\r\n\
-E-065					Documentaqción sin Clasificar		\r\n\
-E-065					Caja del Router Wifi de Telefónica		\r\n\
-E-066					Ropa y cosas (apliques) del cuarto de baño		\r\n\
-E-067					Documentación Sin Clasificar		\r\n\
-E-067					Documentación Librería Gráfica Lead Tool		\r\n\
-E-067					PCMANIAS		\r\n\
-E-067					Teléfono Inalámbrico al que falla la batería		\r\n\
-E-067					Altavoz sony lateral + soporte		\r\n\
-E-067					Baterías de todo tipo		\r\n\
-E-067					Mancuernas		\r\n\
-E-067					Tornillería Muebles Cubana		\r\n\
-E-067					Paraguas Cubana		\r\n\
-E-069					Aparatos Electrónicos		\r\n\
-E-070					Vajilla y Loza		\r\n\
-E-071					Documentación Varia sin Clasificar		\r\n\
-E-071					Libro de fotos Bunaken		\r\n\
-E-071					Películas el Exorcista		\r\n\
-E-072					Terminales Teléfonos RDSI		\r\n\
-E-072					Varios		\r\n\
-E-073					Diccionario		\r\n\
-E-073					Fotos de la Familia		\r\n\
-E-073							\r\n\
-E-074					Equipo de Audio Alberto		\r\n\
-E-076					Diapositivas Cine XXI		\r\n\
-E-076					Bolsas Acolchadas		\r\n\
-E-076					CDs		\r\n\
-E-076					Ratón Mouse		\r\n\
-E-078					Batería Alarma Rocinante		\r\n\
-E-078					Carpetas Documentos sin Clasificar PhotoData		\r\n\
-E-078					Presupuesto Reforma Local Comercial Aniceto Castilblanque		\r\n\
-E-081					Revistas		\r\n\
-E-081					Prototipo de salidas / entradas por el puerto Centronics		\r\n\
-E-081					Accesorio Discos Duros		\r\n\
-E-081					Documentos sin clasificar		\r\n\
+E065					Documentaqción sin Clasificar		\r\n\
+E065					Caja del Router Wifi de Telefónica		\r\n\
+E066					Ropa y cosas (apliques) del cuarto de baño		\r\n\
+E067					Documentación Sin Clasificar		\r\n\
+E067					Documentación Librería Gráfica Lead Tool		\r\n\
+E067					PCMANIAS		\r\n\
+E067					Teléfono Inalámbrico al que falla la batería		\r\n\
+E067					Altavoz sony lateral + soporte		\r\n\
+E067					Baterías de todo tipo		\r\n\
+E067					Mancuernas		\r\n\
+E067					Tornillería Muebles Cubana		\r\n\
+E067					Paraguas Cubana		\r\n\
+E069					Aparatos Electrónicos		\r\n\
+E070					Vajilla y Loza		\r\n\
+E071					Documentación Varia sin Clasificar		\r\n\
+E071					Libro de fotos Bunaken		\r\n\
+E071					Películas el Exorcista		\r\n\
+E072					Terminales Teléfonos RDSI		\r\n\
+E072					Varios		\r\n\
+E073					Diccionario		\r\n\
+E073					Fotos de la Familia		\r\n\
+E073							\r\n\
+E074					Equipo de Audio Alberto		\r\n\
+E076					Diapositivas Cine XXI		\r\n\
+E076					Bolsas Acolchadas		\r\n\
+E076					CDs		\r\n\
+E076					Ratón Mouse		\r\n\
+E078					Batería Alarma Rocinante		\r\n\
+E078					Carpetas Documentos sin Clasificar PhotoData		\r\n\
+E078					Presupuesto Reforma Local Comercial Aniceto Castilblanque		\r\n\
+E081					Revistas		\r\n\
+E081					Prototipo de salidas / entradas por el puerto Centronics		\r\n\
+E081					Accesorio Discos Duros		\r\n\
+E081					Documentos sin clasificar		\r\n\
 					Micromanías		\r\n\
 					Revistas Varias		\r\n\
 					Documentos sin Clasificar SGEL, etc.		\r\n\
 					Notas de Prensa Cine XXI		\r\n\
-E-082					Herramientas		\r\n\
+E082					Herramientas		\r\n\
 S001	1		4		Alambre plastificado		\r\n\
 S001	2		1		Etiquetas de Impresora Adhesivas		\r\n\
 S001	3		1		Barras de pegamento térmico para fundir		\r\n\
