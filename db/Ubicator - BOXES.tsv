@@ -374,10 +374,10 @@ E-078							\r\n\
 							\r\n\
 E-081							\r\n\
 E-082							\r\n\
-M001	53:f0:ed:f2:10:00:01				Materiales Consumibles		\r\n\
+S001	53:f0:ed:f2:10:00:01				Materiales Consumibles		\r\n\
 T001	53:f7:41:f2:10:00:01				Herramientas		\r\n\
 T002	53:e5:c2:f2:10:00:01				Herramientas		\r\n\
-							\r\n\
+M000	53:f1:e6:f2:10:00:01						\r\n\
 							\r\n\
 							\r\n\
 							\r\n\
