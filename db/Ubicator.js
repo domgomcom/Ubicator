@@ -1227,7 +1227,7 @@ E009				Vídeos	Cintas de Vídeo de Música y Cine - Sin Clasifficar		\r\n\
 E010				Documentos	Archivo Fotográfico Cine XXI - Ejemplares de la Revista		\r\n\
 E011				Hardware	Aparatos Varios Sin Clasificar		\r\n\
 E012				Varios	Documentación PHOTODATA y Chalé. Sin Clasificar		\r\n\
-E012				CDs	Colección CDs MSN		\r\n\
+E012				CDs	Colección CDs MSN	alicates-test	\r\n\
 E013				Varios	Hardware Software Sin Clasificar		\r\n\
 E013				Hardware	Tarjetas gráficas Local Bus		\r\n\
 E013				Hardware	Conectores Adaptadores		\r\n\
@@ -1518,4 +1518,11 @@ M030					Tornillos y Arandelas rosca madera DIN 571. Longitud 100, diámetro 8, 
 M031					Sintonizador TDT roto. No funciona.		\r\n\
 M032					Tarjeta PCI RAID BIOS. DawiControl.		\r\n\
 M033					Raspberry Pi (C) 2011		\r\n\
-M034					Tapones pastillero PLA + Tóricas		\r\n";
+M034					Tapones pastillero PLA + Tóricas		\r\n\
+M035					Hat para Arduino. Ethernet y lector CF mini SD		
+M036					Set kit de herramientas móviles y pads.		
+M037					Bomba de agua miniatura acuario 		
+M038					Fuente Alimentación Portátil. 19 volt.		
+M039					Cables soldar y breadboard		
+M040					Microcontroladores, Arduino, ESP32		
+M041					Auriculares desmontados averiados	";
