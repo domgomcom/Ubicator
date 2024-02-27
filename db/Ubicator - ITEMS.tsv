@@ -63,7 +63,7 @@ T001	27		1		Triple enchufe ladrón		\r\n\
 T001	28		1		Mini Lámpara Led Flexible		\r\n\
 T001	29		1		Dremel Accesorios		\r\n\
 T001	30		1		Pinzas sujeción		\r\n\
-T001	31		1		Flexómetro		\r\n\
+T001	31		1		Flexómetro MEDID PROMO		\r\n\
 T001	32		1		Nivel		\r\n\
 T001	33		1		Juego de minibrocas CNC		\r\n\
 T001	34		1		Crimpadora RJ-45		\r\n\
@@ -98,7 +98,7 @@ T002	1		1		Cargador Pilas NiCad AAA y AA		\r\n\
 T002	2		1		Cargador Pilas LIPO		\r\n\
 T002	3		1		Kit de herramientas desmontaje móviles		\r\n\
 T002	4		1		Adaptador SATA a USB, 3.5 y 2.5		\r\n\
-T002	5		1		Polímetro		\r\n\
+T002	5		1		Polímetro, Tester, Multímetro. Amarillo EXCEL DT-9205A		\r\n\
 T002	6		1		Soldador Verde-Amarillo		\r\n\
 T002	7		1		Cepillo dental		\r\n\
 T002	8		1		Surtido de Agujas de Coser		\r\n\
@@ -115,6 +115,7 @@ T002	18		1		Hoja de Segueta		\r\n\
 T002	19		1		Gafas Relojero		\r\n\
 T002	20		1		Juego Completo de llaves Allen		\r\n\
 T002	21		1		Juego de llaves de tubo		\r\n\
+T002	22		1		Polímetro, Tester, Multímetro. Gris ANENG A830L		\r\n\
 C001		Video	1	BETACAM	Un Domingo Cualquiera	Así se hizo	\r\n\
 C001		Video	1	BETACAM	Quill	Trailer	\r\n\
 C001		Video	1	BETACAM	Manuelita	Trailer	\r\n\
@@ -878,7 +879,7 @@ E023				Documentación	Documentos sin clasificar, la mayoría antiguos: Photodat
 E024				Revistas	Revistas HobbyPress: Netmanía, Micromanía		\r\n\
 E024				Documentación	Comunicaciones Home plug and play. Protocolos de comunicación para el Hogar		\r\n\
 E025				Varios	Cosas varias sin clasificar, libros, ollas, etc.		\r\n\
-E026				Varios	Toallas varios tipos		\r\n\
+E026				Varios			\r\n\
 E027				Vídeo	Cintas de Vídeo Varias sin Clasificar		\r\n\
 E028				Video	Cintas de Vídeo. La mayoría de Jazz		\r\n\
 E029				Documentación	Cartas de Cine XXI, Press Books de Películas		\r\n\
@@ -1131,7 +1132,7 @@ M032					Tarjeta PCI RAID BIOS. DawiControl.		\r\n\
 M033					Raspberry Pi (C) 2011		\r\n\
 M034					Tapones pastillero PLA + Tóricas		\r\n\
 M035					Hat para Arduino. Ethernet y lector CF mini SD		\r\n\
-M036					Set kit de herramientas móviles y pads.		\r\n\
+M036					Set kit de herramientas móviles y tablets.		\r\n\
 M037					Bomba de agua miniatura acuario 		\r\n\
 M038					Fuente Alimentación Portátil. 19 volt.		\r\n\
 M039					Cables soldar y breadboard		\r\n\
