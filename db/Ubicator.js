@@ -423,7 +423,7 @@ NS			1		Set de Retoque Positivos Paterson		\r\n\
 NS			1		SIVOPAR, Máscaras Ajuste 35 mm. ampliadora DURST		\r\n\
 NS			2		Soporte Luces de Reproducción en Ampliadora		\r\n\
 T001	1		1		Fuente Alimentación Estabilizada MANSON EP-613		\r\n\
-T001	2		1		Pistola de Calor		\r\n\
+T001	2		1		Pistola de Calor. Decapadora.		\r\n\
 T001	3		1		Calibrador Pie de Rey		\r\n\
 T001	4		1		Tijeras Electricista		\r\n\
 T001	5		1		Pelacables		\r\n\
@@ -459,7 +459,7 @@ T001	34		1		Crimpadora RJ-45		\r\n\
 T001	35		1		Juego de limas de uñas		\r\n\
 T001	36		1		Microscopio Electrónico		\r\n\
 T001	37		1		Termómetro de Varilla Horno		\r\n\
-T001	38		1		Adaptador Enchfe Americano a Europeo		\r\n\
+T001	38		1		Adaptador Enchfe Americano a Europeo. Travel Adaptor.		\r\n\
 T001	39		1		Termómetro Horno		\r\n\
 T001	40		1		Nivel		\r\n\
 T001	41		1		Alicantes Punta Fina Negros		\r\n\
@@ -469,7 +469,7 @@ T001	44		1		Juego Llaves de Tubo		\r\n\
 T001	45		1		Bits CNC puntas de fresado		\r\n\
 T001	46		1		Lima Cola de Ratón		\r\n\
 T001	47		1		Tijeras Azules Papel		\r\n\
-T001	48		1		Linterna Frontal Led		\r\n\
+T001	48		1		Rodilleras		\r\n\
 T001	49		1		Soldador Azul		\r\n\
 T001	50		1		Soldador Blanco/Negro		\r\n\
 T001	51		1		Lima Cola de Ratón		\r\n\
@@ -477,12 +477,15 @@ T001	52		1		Lima Plana Rectangular		\r\n\
 T001	53		1		Cepillo Plástico Limpia Uñas		\r\n\
 T001	54		1		Sujetador cables para soldar		\r\n\
 T001	55		1		Grapadora		\r\n\
-T001	56		1		Perforadora Papel un agujero		\r\n\
+T001	56		1		Perforadora Papel un agujero. Perforadora.		\r\n\
 T001	57		1		Cuchillo		\r\n\
 T001	58		1		Adaptador USB-SATA		\r\n\
 T001	59		1		Tijeras Papel Rojas		\r\n\
 T001	60		1		Kit de llaves Allen		\r\n\
 T001	61		1		Alicates Mordaza		\r\n\
+T001	62		1		Gato Sargento Verde		\r\n\
+T001	63		2		Gato Sargento Rojo		\r\n\
+T001	64		1		Boroscopio/Endoscopio		\r\n\
 T002	1		1		Cargador Pilas NiCad AAA y AA		\r\n\
 T002	2		1		Cargador Pilas LIPO		\r\n\
 T002	3		1		Kit de herramientas desmontaje móviles		\r\n\
@@ -495,7 +498,7 @@ T002	9		1		Brocha Ancha Pintura		\r\n\
 T002	10		1		Brocha Normal		\r\n\
 T002	11		1		Soporte Soldador		\r\n\
 T002	12		1		Alicate de Corte Verde		\r\n\
-T002	13		1		Carraca de Tubo		\r\n\
+T002	13		1		Kit Herramientas Llaves de vaso Carraca de Tubo		\r\n\
 T002	14		1		Punto de luz LED Linterna		\r\n\
 T002	15		1		Guantes de Trabajo		\r\n\
 T002	16		1		Fuente de Alimentación Regulable Miniatura		\r\n\
@@ -505,6 +508,12 @@ T002	19		1		Gafas Relojero		\r\n\
 T002	20		1		Juego Completo de llaves Allen		\r\n\
 T002	21		1		Juego de llaves de tubo		\r\n\
 T002	22		1		Polímetro, Tester, Multímetro. Gris ANENG A830L		\r\n\
+T002	23		1		Taladrador BLACK and DECKER		\r\n\
+T002	24		1		Linterna Frontal Led		\r\n\
+T002	25		1		Kit herramientas móviles y tablets		\r\n\
+T002	26		1		Cutter Tapicero		\r\n\
+T002	27		1		Kitchen Scale, Balanza electrónica de precision Bluetooth AIRMSEN-MODEL EC815-BT		\r\n\
+T002	28		1		Tornillo Banco Mordaza		\r\n\
 C001		Video	1	BETACAM	Un Domingo Cualquiera	Así se hizo	\r\n\
 C001		Video	1	BETACAM	Quill	Trailer	\r\n\
 C001		Video	1	BETACAM	Manuelita	Trailer	\r\n\
